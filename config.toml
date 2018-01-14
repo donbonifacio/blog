@@ -1,0 +1,94 @@
+baseURL = "http://example.org/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Engineering Management"
+enableRobotsTXT = true
+enableEmoji = true
+theme = "even"
+
+hasCJKLanguage = false     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
+paginate = 3                                              # 首页每页显示的文章数
+disqusShortname = ""      # disqus_shortname
+googleAnalytics = ""      # UA-XXXXXXXX-X
+copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
+
+[author]
+  name = "Pedro Pereira Santos"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Archives"
+  weight = 20
+  identifier = "archives"
+  url = "/post/"
+#[[menu.main]]
+#  name = "Tags"
+#  weight = 30
+#  identifier = "tags"
+#  url = "/tags/"
+[[menu.main]]
+  name = "Categories"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"
+[[menu.main]]
+  name = "About"
+  weight = 50
+  identifier = "about"
+  url = "/about/"
+
+[params]
+  debug = false
+  since = "2018"
+  logoTitle = "Engineering Management"
+  keywords = ["Hugo", "theme","even"]
+  description = "Hugo theme even example site."
+
+  # paginate of archives, tags and categories
+  archive-paginate = 3
+
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+
+  # show word count and read time ?
+  moreMeta = true
+
+  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
+  toc = true
+  autoCollapseToc = false   # Auto expand and collapse toc
+  fancybox = true           # see https://github.com/fancyapps/fancybox
+  mathjax = false           # see https://www.mathjax.org
+  linkToMarkDown = false    # if you config contentCopyright and hugo output .md files.
+
+  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+
+  changyanAppid = ""        # Changyan app id
+  changyanAppkey = ""       # Changyan app key
+  livereUID = ""            # LiveRe UID
+  baidu_push = false        # baidu push
+  baidu_analytics = ""      # Baidu Analytics
+  baidu_verification = ""   # Baidu Verification
+  google_verification = ""  # Google_Verification
+
+  [params.publicCDN]        # load these files from public cdn
+    enable = false
+    jquery = '<script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>'
+    slideout = '<script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>'
+    fancyboxJs = '<script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>'
+    fancyboxCss = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">'
+
+  [params.social]
+    a-email = "mailto:donbonifacio@gmail.com"
+    c-twitter = "https://twitter.com/donbonifacio"
+    e-linkedin = "https://www.linkedin.com/in/donbonifacio/"
+    g-github = "https://github.com/donbonifacio"
+
