@@ -64,7 +64,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
   toc = true
-  autoCollapseToc = false   # Auto expand and collapse toc
+  autoCollapseToc = true    # Auto expand and collapse toc
   fancybox = true           # see https://github.com/fancyapps/fancybox
   mathjax = false           # see https://www.mathjax.org
   linkToMarkDown = false    # if you config contentCopyright and hugo output .md files.
