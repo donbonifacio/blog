@@ -30,11 +30,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   weight = 20
   identifier = "archives"
   url = "/post/"
-#[[menu.main]]
-#  name = "Tags"
-#  weight = 30
-#  identifier = "tags"
-#  url = "/tags/"
+[[menu.main]]
+  name = "Subscribe"
+  weight = 30
+  identifier = "subscribe"
+  url = "/subscribe/"
 [[menu.main]]
   name = "Categories"
   weight = 40
