@@ -3,6 +3,7 @@ title: "Why should we aim for 100% code coverage?"
 date: 2018-02-03T17:36:55Z
 draft: false
 categories: ["Testing", "Code Quality", "Code Reviews"]
+tags: ["Java", "Javascript", "Ruby"]
 ---
 
 I never worked on a project with 100% code coverage. I've worked on several
@@ -14,7 +15,7 @@ This is a tricky subject and usually developers don't care much about this or
 think that it's not worth the cost, or even that is not that useful. I've
 gathered here several arguments in favor for a full coverage.
 
-<!-- read more -->
+<!--more-->
 
 ## What 100% coverage is not
 
