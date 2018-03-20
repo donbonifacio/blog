@@ -6,6 +6,8 @@ categories: ["Ramblings"]
 tags: ["Clojure", "Java", "Rails", "Ruby"]
 ---
 
+![Rails Clojure and Java](/img/rails-clojure-java-rails.png)
+
 In the past 6 years I've worked on web applications in Rails, Clojure, Java and
 back to Rails.
 This is an overview of these past years, the benefits of working with such
