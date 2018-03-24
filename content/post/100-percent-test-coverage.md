@@ -4,6 +4,9 @@ date: 2018-02-03T17:36:55Z
 draft: false
 categories: ["Testing", "Code Quality", "Code Reviews"]
 tags: ["Java", "Javascript", "Ruby"]
+discuss:
+  - ["Reddit", "https://www.reddit.com/r/programming/comments/82ef92/why_should_we_aim_for_100_code_coverage/"]
+  - ["Hacker News", "https://news.ycombinator.com/item?id=16528733"]
 ---
 
 I never worked on a project with 100% code coverage. I've worked on several
