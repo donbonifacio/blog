@@ -7,6 +7,7 @@ tags: ["Clojure", "Java", "Rails", "Ruby"]
 discuss:
   - ["Hacker News", "https://news.ycombinator.com/item?id=16637148"]
   - ["Uber Engineering Tweet", "https://twitter.com/UberEng/status/976963502060527623"]
+  - ["Ruby Inside Tweet", "https://twitter.com/rubyinside/status/977328908419850242?s=21"]
   - ["Reddit", "https://www.reddit.com/r/hackernews/comments/864dvi/from_rails_to_clojure_then_to_java_then_back_to/"]
   - ["Medium Crosspost", "https://hackernoon.com/from-rails-to-clojure-then-to-java-then-back-to-rails-bd4b418f3cfb"]
   - ["My Tweet", "https://twitter.com/donbonifacio/status/976426539909869574"]
