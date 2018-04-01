@@ -5,7 +5,7 @@ draft: false
 categories: ["Soft Skills", "Leadership", "Postmortems", "Frustration Debt"]
 ---
 
-![Rails Clojure and Java](/img/dealing-with-deadlines.png)
+![Deadling with deadlines](/img/dealing-with-deadlines.png)
 
 I usually like to ask the following question when I'm interviewing developers:
 
