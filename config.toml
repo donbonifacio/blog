@@ -50,8 +50,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   debug = false
   since = "2018"
   logoTitle = "Engineering Management"
-  keywords = ["Hugo", "theme","even"]
-  description = "Hugo theme even example site."
+  keywords = ["engineering management", "software development", "engineering"]
+  description = "Engineering management processes and ramblings. The goal: build highly motivated, happy and productive sofware development teams."
 
   # paginate of archives, tags and categories
   archive-paginate = 30
