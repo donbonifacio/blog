@@ -3,6 +3,8 @@ title: "That project where no one wants to work at"
 date: 2018-03-30T10:10:46+01:00
 draft: false
 categories: ["Leadership", "Frustration Debt", "Ramblings", "Code Quality"]
+images:
+  - "/img/project-no-one-wants.png"
 ---
 
 ![The project no one wants](/img/project-no-one-wants.png)

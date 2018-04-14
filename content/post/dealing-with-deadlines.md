@@ -3,6 +3,8 @@ title: "Dealing with deadlines"
 date: 2018-03-24T16:35:36Z
 draft: false
 categories: ["Soft Skills", "Leadership", "Postmortems", "Frustration Debt"]
+images:
+  - "/img/dealing-with-deadlines.png"
 ---
 
 ![Deadling with deadlines](/img/dealing-with-deadlines.png)
