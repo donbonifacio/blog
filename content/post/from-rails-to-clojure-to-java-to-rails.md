@@ -4,6 +4,8 @@ date: 2018-03-18T10:36:55Z
 draft: false
 categories: ["Ramblings"]
 tags: ["Clojure", "Java", "Rails", "Ruby"]
+images:
+  - "/img/rails-clojure-java-rails.png"
 discuss:
   - ["Hacker News", "https://news.ycombinator.com/item?id=16637148"]
   - ["Uber Engineering Tweet", "https://twitter.com/UberEng/status/976963502060527623"]

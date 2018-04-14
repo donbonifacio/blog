@@ -3,6 +3,8 @@ title: "Create an onboarding template"
 date: 2018-04-07T10:21:05+01:00
 draft: false
 categories: ["Onboarding", "Utilities"]
+images:
+  - "/img/onboarding-template.png"
 ---
 
 ![Onboarding template](/img/onboarding-template.png)
