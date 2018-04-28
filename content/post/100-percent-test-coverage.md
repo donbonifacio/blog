@@ -25,7 +25,9 @@ gathered here several arguments in favor for a full coverage.
 ## What 100% coverage is not
 
 It's definitely not a statement that the program is without bugs. It's simply
-a data point that states that all lines are covered. If we have some part of
+a data point that states that all lines are covered. It won't detect
+[bad code patterns](/post/code-patterns-that-are-a-recipe-for-trouble/) for example.
+If we have some part of
 the program that is not covered we do know that if something changes we'll
 need to perform some manual validation. And we won't be confident that our
 changes don't break anything.
