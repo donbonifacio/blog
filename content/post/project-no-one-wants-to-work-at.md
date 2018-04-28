@@ -26,7 +26,7 @@ Usually these projects are defined by overall low quality: on the code base,
 on the tools and processes and maybe on some members of the team. Sometimes
 it's very hard to prevent low quality if we're aiming for very fast time
 to market. This coupled with less experienced developers, harsh
-[deadlines](https://engineering-management.space/post/dealing-with-deadlines/) and a bad leadership
+[deadlines](/post/dealing-with-deadlines/) and a bad leadership
 is a recipe for failure.
 
 We may not see problems at the beginning. The team may seem to go fast and
@@ -36,6 +36,8 @@ the team's productivity and healthiness.
 Sometimes we do need to rush do deliver something. But we should not allow the
 team to grow a mindset of get things done no matter what. Because that will
 be very hard to turn around.
+
+Be very careful with [code patterns that are a recipe for trouble](/post/code-patterns-that-are-a-recipe-for-trouble/).
 
 ### Lots of bugs
 
