@@ -8,7 +8,7 @@ categories: ["Interviews", "Recruiter Interviews"]
 <img src='/img/sara-gorjao.jpg' style='float:right; width:200px;margin-left:15px'/>
 
 [Sara Gorjão](https://www.linkedin.com/in/sara-gorjao/) is a great recruiter
-that have helped me a lot over the past years. I've asked her for developer
+that has helped me a lot over the past years. I've asked her for developer
 profiles very complicated. For example, Clojure developers or developers willing
 to learn Clojure, seasoned functional QAs with automation experience, senior
 developers, etc.
