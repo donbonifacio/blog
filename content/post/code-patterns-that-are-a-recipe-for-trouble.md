@@ -6,6 +6,9 @@ categories: ["Testing", "Code Quality", "Code Reviews"]
 tags: ["Java", "Javascript", "Ruby", "Clojure"]
 images:
   - "/img/bad-code-patterns.png"
+discuss:
+  - ["Reddit", "https://www.reddit.com/r/programming/comments/8i565u/code_patterns_that_are_a_recipe_for_trouble/"]
+  - ["Twitter", "https://twitter.com/donbonifacio/status/994133030657806336"]
 ---
 
 ![Bad code patterns](/img/bad-code-patterns.png)
