@@ -1,7 +1,7 @@
 ---
 title: "Code patterns that are a recipe for trouble (part 2)"
-date: 2018-05-04T08:35:56+01:00
-draft: true
+date: 2018-05-12T08:35:56+01:00
+draft: false
 categories: ["Testing", "Code Quality", "Code Reviews"]
 tags: ["Java", "Javascript", "Ruby", "Clojure"]
 images:
@@ -10,12 +10,18 @@ images:
 
 ![Bad code patterns](/img/bad-code-patterns.png)
 
+In [part 1](/post/code-patterns-that-are-a-recipe-for-trouble/) we went through
+several patterns related with writing code that is more maintainable. This article
+focus on code patterns in testing and also concerning readability and style.
+
+<!--more-->
+
 # Testing
 
 ## Using sleep in tests
 
 Using `sleep`s in tests is very troublesome. We usually use `sleep` when we
-need to wait for some asyc operation and we don't know when it is going to
+need to wait for some _async_ operation and we don't know when it is going to
 be finished. This yields two problems:
 
 * We'll need to wait more time than required, just to be safe
@@ -214,6 +220,7 @@ What's `status`? I'd say it's a `string`. But we may receive instead
 `["active", "old"]`. So the name should have been `statuses`. Having names
 in plural hints that we receive a collection.
 
+
 # Style
 
 This is very opinion-based, and I understand that the following topics are
@@ -247,7 +254,7 @@ my brain detects a weird pattern and I have that small delay in stopping and
 understanding what's happening.
 
 There are languages without braces like Python where this isn't an issue. But
-on those languages our brain is used to this pattern. So I go for the most
+on those languages our brain is already used to that. So I go for the most
 common approach and try to be consistent.
 
 ## Ternary operator
@@ -341,7 +348,7 @@ I always advocate for following these [commit message guidelines](https://chris.
 
 # Summary
 
-Some items on this article may be debatable. And that's ok. We should always
+Some items on this article may be debatable. And that's okay. We should always
 question our beliefs, reach a common ground, or learn new techniques or
-different points of view. There's no right or wrong. There's just only
-improvement.
+different points of view. There's no right or wrong. There's only
+improvement points.
