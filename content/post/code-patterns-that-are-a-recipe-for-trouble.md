@@ -26,6 +26,10 @@ remember the _whys_. I just _know_ that it's a best practice and that I should
 follow it. But on this article I tried to go through several of those practices
 that I follow and tried to justify them.
 
+There's also a [part 2 with more patterns](/post/code-patterns-that-are-a-recipe-for-trouble-2/),
+mostly related with testing, readability, and style. Using these patterns could
+turn a project into something that [no one wans to work at](http://localhost:1313/post/project-no-one-wants-to-work-at/).
+
 # Maintainability
 
 ## Exceptions without context
