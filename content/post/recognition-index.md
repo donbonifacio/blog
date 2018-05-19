@@ -288,7 +288,7 @@ it's too late is to track and recognise patterns on that data.
 
 Here's the full list of indexes that I like to track on my 1on1s:
 
-* Learning Index
+* [Learning Index](/post/learning-index/)
 * [Recognition Index](/post/recognition-index/)
 * Comfort Zone Index
 * Productivity Index
