@@ -22,7 +22,7 @@ learning new things, or not learning enough. Companies may have a training
 program, but from what I know about, that's not so common. More common is for
 companies to provide some kind of training budget for employees to use.
 
-However, people may end up to using the training plafound, due to lack to
+However, people may end up not to using the training plafound, due to lack to
 time or because they actually don't have any ideas on how to use it.
 
 # Why is investing in training so important?
