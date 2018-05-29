@@ -40,6 +40,8 @@ We may invest in specialisation: training in things that we already know
 and go deeper. And we may also train in other areas the complement our own. This
 will allow us to gain insights that make a difference.
 
+Example: [_see how Cosmology gives an edge to a data scientist._](/post/data-scientist-interview-raquel-ribeiro/)
+
 # Track learning
 
 Once a month, on my 1on1s, I ask the following:
