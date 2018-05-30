@@ -10,7 +10,7 @@ images:
 ![Comfort Zone index](/img/comfort-zone-index.png)
 
 We leave our comfort zone when we get that anxious feeling in our chest and
-we are concious that we're not in control, and that something may go wrong.
+we are conscious that we're not in control, and that something may go wrong.
 
 <!--more-->
 
