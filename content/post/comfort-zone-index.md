@@ -5,6 +5,8 @@ draft: false
 categories: ["Line Management"]
 images:
 - "/img/comfort-zone-index.png"
+discuss:
+  - ["Twiter", "https://twitter.com/donbonifacio/status/1001739582818390016"]
 ---
 
 ![Comfort Zone index](/img/comfort-zone-index.png)

@@ -5,6 +5,8 @@ draft: false
 categories: ["Line Management"]
 images:
 - "/img/learning-index.png"
+discuss:
+  - ["Twiter", "https://twitter.com/donbonifacio/status/999208869174882304"]
 ---
 
 ![Learning index](/img/learning-index.png)
