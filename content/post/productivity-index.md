@@ -133,7 +133,7 @@ doing? How are we going to make sure that we achieve success?
 I remember a day I was browsing support tickets and I saw someone suggesting
 a new feature. The thing is, _I_ had implemented that feature years ago. But
 somehow, our clients didn't know about it. That's why it's important to understand
-what success is. If we're releasing a new feature, let's also understand how
+what success is. If we're releasing a new feature, lets also understand how
 are we going to _sell it_.
 
 # About quality
