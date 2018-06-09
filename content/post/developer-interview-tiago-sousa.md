@@ -3,6 +3,8 @@ title: "Developer interview: Tiago Sousa - Sky"
 date: 2018-04-21T19:50:13+01:00
 draft: false
 categories: ["Interviews", "Developer Interviews"]
+small_images:
+- "/img/tiago-sousa.jpg"
 ---
 
 <img src='/img/tiago-sousa.jpg' style='float:right; width:200px;margin-left:15px'/>

@@ -3,6 +3,8 @@ title: "Senior data scientist interview: Raquel H Ribeiro"
 date: 2018-06-04T08:00:49+01:00
 draft: false
 categories: ["Interviews", "Manager Interviews"]
+small_images:
+- "/img/raquel-ribeiro.jpeg"
 ---
 
 <img src='/img/raquel-ribeiro.jpeg' style='float:right; width:200px;margin-left:15px'/>
