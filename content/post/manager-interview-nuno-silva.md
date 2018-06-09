@@ -3,6 +3,8 @@ title: "Manager Interview: Nuno Silva - Sky"
 date: 2018-05-15T09:20:21+01:00
 draft: false
 categories: ["Interviews", "Manager Interviews", "Mentoring", "Leadership"]
+small_images:
+- "/img/nuno-silva.jpeg"
 ---
 
 <img src='/img/nuno-silva.jpeg' style='float:right; width:200px;margin-left:15px'/>
