@@ -4,8 +4,7 @@ date: 2018-01-05T22:22:10Z
 draft: false
 ---
 
-Subscribe the mailing list if you want to receive a notification when a post
-is added.
+Subscribe the mailing list if you want to receive a monthly digest of articles.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
