@@ -8,7 +8,7 @@ small_images:
 ---
 <img src='/img/david-amador.jpeg' style='float:right; width:200px; margin-left:15px'/>
 
-I've been followinig [David Amador](https://twitter.com/DJ_Link) for a long time.
+I've been following [David Amador](https://twitter.com/DJ_Link) for a long time.
 He's a _one man team_ that created the [Quest of Dungeons](https://www.questofdungeons.com/) game.
 This game is available in 10 platforms, like for example on [Steam](https://store.steampowered.com/app/270050/Quest_of_Dungeons/),
 [Xbox](https://www.microsoft.com/en-us/p/quest-of-dungeons/bswtdr8hbm1w),
@@ -133,7 +133,7 @@ how bad some of me code was and how to optimize it.
 
 All versions exist in the same branch, so usually a bug fix will only be as 
 complicated as the bug itself. The exception will be platform specific ones or
-UI, because right now there are a comple of different versions: Mobile (touch),
+UI, because right now there are a couple of different versions: Mobile (touch),
 PC (KB, Mouse), consoles (GamePad), 3DS (dual screen + touch), and all these
 have different things to it, to make it fit to the platform, so these can be
 complicated, like adding new features or things like that.
