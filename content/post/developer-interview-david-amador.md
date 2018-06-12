@@ -89,8 +89,8 @@ spot they are OP it's up to them if they want the extra challenge of a more
 close combat class.
 
 > Indeed there's a lot of logic over there. How do you make sure that changes
-> to the code don't break things elsewhere? Or that that some minor change on
-> some stat might unbalance the game somewhere?
+> to the code don't break things elsewhere? Or that some minor change on
+> some state might unbalance the game somewhere?
 
 It always involves some sort of manual testing, there's really no way around it,
 because of the procedural nature automated tests only go so far, many things I
@@ -126,7 +126,7 @@ tested the game on was a iPod Touch, and this was slower, it was a fun exercise
 in seeing how Nintendo and other devs where pushing that hardware, also to see
 how bad some of me code was and how to optimize it.
 
-> And how do you manage all those versions? For example, image that you find a
+> And how do you manage all those versions? For example, imagine that you find a
 > bug that happens in all versions and you have to fix it. Do you have branches
 > for each version? Are they separate repos? Will you have to be subject to all
 > the quality procedures again?
