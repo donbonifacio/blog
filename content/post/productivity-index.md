@@ -4,6 +4,8 @@ date: 2018-06-05T20:03:44+01:00
 draft: false
 images:
 - "/img/productivity-index.png"
+discuss:
+  - ["How to Improve Your Productivity as a Working Programmer", "http://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/"]
 ---
 
 ![Productivity index](/img/productivity-index.png)
