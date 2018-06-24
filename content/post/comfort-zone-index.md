@@ -96,4 +96,4 @@ Here's the full list of indexes that I like to track on my 1on1s:
 * [Recognition Index](/post/recognition-index/)
 * [Comfort Zone Index](/post/comfort-zone-index/)
 * [Productivity Index](/post/productivity-index/)
-* Satisfaction Index
+* [Satisfaction Index](/post/satisfaction-index/)
