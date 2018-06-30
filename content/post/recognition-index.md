@@ -294,3 +294,4 @@ Here's the full list of indexes that I like to track on my 1on1s:
 * [Productivity Index](/post/productivity-index/)
 * [Satisfaction Index](/post/satisfaction-index/)
 
+And you can also see how I bundle all this on my [1on1's framework](/post/1on1-framework).
