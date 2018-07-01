@@ -5,6 +5,8 @@ draft: false
 categories: ["Mentoring", "Postmortems", "Utilities"]
 images:
   - "/img/production-incidents.png"
+discuss:
+  - ["Recording Footage of Myself Investigating a Performance Issue", "http://malisper.me/recording-footage-of-myself-investigating-a-performance-issue/"]
 ---
 
 ![Production incident training program](/img/production-incidents.png)
