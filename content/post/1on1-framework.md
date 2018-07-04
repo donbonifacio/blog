@@ -5,6 +5,8 @@ draft: false
 categories: ["Line Management", "Mentoring", "Career Counselling", "Onboarding"]
 images:
 - "/img/1on1-framework.png"
+discuss:
+  - ["Reddit", "https://www.reddit.com/r/programming/comments/8w0sen/my_framework_for_oneonones/"]
 ---
 
 ![1on1 framework](/img/1on1-framework.png)
