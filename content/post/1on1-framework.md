@@ -113,7 +113,7 @@ or when someone joins my team.
 
 After the first week I have a small session just to gather feedback and understand
 if everything is going well. Usually I ask what people think about our
-[onboarding template](post/onboarding-template) and how can we make the process
+[onboarding template](/post/onboarding-template) and how can we make the process
 better. I also present my framework, the indexes and the goals of our sessions.
 
 #### Month 1: 10x better question
