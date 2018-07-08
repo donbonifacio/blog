@@ -172,6 +172,8 @@ For example, staying at home, in a calm and silent mood. Or being at the office
 with all the noise. Starting working earlier or work late at night. Each one of us
 should know how to take the most out of us.
 
+[We need to learn how to work smarter](/post/work-smart-vs-work-hard/).
+
 # Summary
 
 There are a lot of things that impact our productivity. I try to challenge my

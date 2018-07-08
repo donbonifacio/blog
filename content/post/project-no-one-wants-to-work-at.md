@@ -235,3 +235,4 @@ and when we realise it's already too late. What can we do about this?
   need to invest time in upgrading that dependency with breaking changes. But
   if we don't do it sooner, we'll never do it later. Also, try to minimise
   dependencies.
+* [We need to learn how to work smarter](/post/work-smart-vs-work-hard/).
