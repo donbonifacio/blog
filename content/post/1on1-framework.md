@@ -7,6 +7,7 @@ images:
 - "/img/1on1-framework.png"
 discuss:
   - ["Reddit", "https://www.reddit.com/r/programming/comments/8w0sen/my_framework_for_oneonones/"]
+  - ["How To Prepare For A One-on-One Meeting As a Manager", "https://knowyourcompany.com/learn/guides/8-how-to-have-effective-one-on-one-meetings/4-how-to-prepare-for-a-one-on-one-meeting-as-a-manager/"]
 ---
 
 ![1on1 framework](/img/1on1-framework.png)
