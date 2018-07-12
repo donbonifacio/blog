@@ -57,7 +57,7 @@ are several possible sources for a deadline:
 # Planning for the deadline
 
 Assuming that we actually have the deadline and need to do something about it,
-it's time to lay down our options.
+it's time to lay down our options and try to [work smarter](/post/work-smart-vs-work-hard/).
 
 * **Can we change the scope?** Is there room to decrease the scope? Doing less
   while delivering the same results? Could we deliver some iteration of a feature
