@@ -5,6 +5,8 @@ draft: false
 categories: ["Soft Skills", "Leadership", "Postmortems", "Frustration Debt"]
 images:
   - "/img/dealing-with-deadlines.png"
+discuss:
+  - ["Ask HN: As a team lead how to handle project going off the rails?", "https://news.ycombinator.com/item?id=17511850"]
 ---
 
 ![Deadling with deadlines](/img/dealing-with-deadlines.png)
