@@ -41,10 +41,8 @@ on the rest of the application, on how to test that everything
 is working and even on how to assess performance requirements.
 
 This initial research allows us to take a look at the code/module that we'll need
-to change, to gain context and have a clear picture of  we may need
-to perform.
-
-And after the RFC we should have a list of things will need to implement.
+to change, to gain context and have a clear picture of what we may need
+to implement.
 
 Given that the team, and maybe some other stakeholders, will review the RFC, we
 get a change of validating dependencies and constraints before starting to
