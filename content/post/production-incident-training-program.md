@@ -2,7 +2,7 @@
 title: "Production incident's training program"
 date: 2018-06-19T09:54:56+01:00
 draft: false
-categories: ["Mentoring", "Postmortems", "Utilities"]
+categories: ["Mentoring", "Postmortems", "Utilities", "Training"]
 images:
   - "/img/production-incidents.png"
 discuss:

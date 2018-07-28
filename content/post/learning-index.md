@@ -2,7 +2,7 @@
 title: "Continuous learning mindset"
 date: 2018-05-19T07:36:46+01:00
 draft: false
-categories: ["Line Management"]
+categories: ["Line Management", "Training"]
 images:
 - "/img/learning-index.png"
 discuss:
@@ -46,7 +46,7 @@ Example: [_see how Cosmology gives an edge to a data scientist._](/post/data-sci
 
 # Track learning
 
-Once a month, on my 1on1s, I ask the following:
+Once a month, on my [1on1s](/post/1on1-framework/), I ask the following:
 
 > How much do you feel you have learned on the last four weeks?
 
@@ -103,6 +103,9 @@ For example, per quarter:
 I usually push for reading and try to incorporate that habit. But it's not
 easy if someone doesn't like reading. Fortunately, there are always other
 options.
+
+You can see an example of a more detailed quarterly training plan
+[here](/post/quarterly-training-plan/).
 
 ### Setting goals
 
