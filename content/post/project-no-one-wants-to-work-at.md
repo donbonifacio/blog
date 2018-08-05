@@ -189,7 +189,7 @@ the motivation of fixing and implementing the _good_ parts of the system.
 
 ### Turn the ship around
 
-Here's the goal:
+Here's the [goal](/post/importance-of-setting-goals/):
 
 * Let's make that project no one wants to work at a reference project where
   _everyone_ wants to work at
@@ -200,7 +200,7 @@ that goal.
 
 We do need to be careful with the size of these improvements. Improving code,
 tooling and processes is great but not for a _very_ long time. Developers may
-forget about their drive and realise that it's just too much for them to
+forget about [their drive](/post/satisfaction-index/) and realise that it's just too much for them to
 change, and start considering their future.
 
 The full team needs to be aligned on this. Having part of the team that falls
@@ -220,7 +220,7 @@ and when we realise it's already too late. What can we do about this?
   styles contributing to a mess of a code base.
 * **Regular 1on1s**: perform regular 1on1s with the team and try to detect
   problems before they arise. There are indicators that predict problems and
-  this is the place to gather them.
+  this is the place to gather them (see [my framework for 1on1s](/post/1on1-framework/))
 * **Measure the time to do things**: for example, if we measure how much time we increase
   on the unit tests per month, we can estimate how much the test suite will
   take in a couple of years. If that's problematic we can start changing the way

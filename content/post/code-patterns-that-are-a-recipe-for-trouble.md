@@ -13,7 +13,7 @@ discuss:
 
 ![Bad code patterns](/img/bad-code-patterns.png)
 
-Sometimes I notice that I have just wasted one hour or so because of some bug in my code,
+Sometimes I notice that I have just [wasted one hour or so because of some bug in my code](/post/bug-that-was-not-our-mistake-except-it-was/),
 or something that I did wrong. When that happens I try to step back, understand
 what I did and try to come up with a change in my way of working that will
 prevent it from happening again.
@@ -28,7 +28,7 @@ that I follow and tried to justify them.
 
 There's also a [part 2 with more patterns](/post/code-patterns-that-are-a-recipe-for-trouble-2/),
 mostly related with testing, readability, and style. Using these patterns could
-turn a project into something that [no one wans to work at](http://localhost:1313/post/project-no-one-wants-to-work-at/).
+turn a project into something that [no one wans to work at](/post/project-no-one-wants-to-work-at/).
 
 # Maintainability
 
@@ -524,3 +524,7 @@ think about that because we're focus on the moment and want to build something.
 There are some practices and patterns that can help us to write better code
 by default, on the first try. But we need to always be practicing and trying
 to improve our coding skills.
+
+Don't forget to check out [part 2 with more code patterns that are a recipe
+for
+trouble](/post/code-patterns-that-are-a-recipe-for-trouble-2/).

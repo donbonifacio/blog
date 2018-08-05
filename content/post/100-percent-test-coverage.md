@@ -24,7 +24,7 @@ gathered here several arguments in favor for a full coverage.
 
 ## What 100% coverage is not
 
-It's definitely not a statement that the program is without bugs. It's simply
+It's definitely not a statement that the program is [without bugs](/post/bug-that-was-not-our-mistake-except-it-was/). It's simply
 a data point that states that all lines are covered. It won't detect
 [bad code patterns](/post/code-patterns-that-are-a-recipe-for-trouble/) for example.
 If we have some part of

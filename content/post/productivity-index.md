@@ -81,7 +81,7 @@ our point of view. There are some things we can do to account being late:
 * We can have a plan B in case we're running late. For example, negotiate
   decreasing scope.
 
-See more in [dealing with deadlines](post/dealing-with-deadlines/).
+See more in [dealing with deadlines](/post/dealing-with-deadlines/).
 
 From my experience the most problematic thing when we're running late isn't
 being late, but it's actually dealing with expectations. I may not mind if someone
