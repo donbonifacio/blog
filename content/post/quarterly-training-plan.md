@@ -29,6 +29,8 @@ Another thing to consider is the level we'll aiming at. So a better learning
 goal would be: be able to watch a movie in Japanese without subtitles and
 understand most of it, in a year.
 
+Read more about [the importance of setting goals](/post/importance-of-setting-goals/).
+
 # Be aware of business as usual
 
 When we start in a new company or project we may be learning a lot. We may be
