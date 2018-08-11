@@ -92,3 +92,23 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     e-linkedin = "https://www.linkedin.com/in/donbonifacio/"
     g-github = "https://github.com/donbonifacio"
 
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
