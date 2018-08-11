@@ -4,7 +4,8 @@ date: 2018-01-05T22:22:10Z
 draft: false
 ---
 
-Subscribe the mailing list if you want to receive a monthly digest of articles.
+Subscribe the mailing list if you want to receive a monthly digest of my articles
+about **engineering management**.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -35,3 +36,4 @@ Subscribe the mailing list if you want to receive a monthly digest of articles.
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='BIRTHDAY';ftypes[3]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
+Be sure to review my [privacy policy](/privacy/).

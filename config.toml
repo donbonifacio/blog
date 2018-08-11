@@ -41,8 +41,13 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "categories"
   url = "/categories/"
 [[menu.main]]
-  name = "About"
+  name = "Privacy"
   weight = 50
+  identifier = "privacy"
+  url = "/privacy/"
+[[menu.main]]
+  name = "About"
+  weight = 60
   identifier = "about"
   url = "/about/"
 
@@ -105,7 +110,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   [privacy.twitter]
     disable = false
     enableDNT = true
-    simple = false
+    simple = true
   [privacy.vimeo]
     disable = false
     simple = false
