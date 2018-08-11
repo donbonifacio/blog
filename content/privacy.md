@@ -6,7 +6,7 @@ draft: false
 
 # Privacy
 
-This website is mostly about providing content Engineering Management. I don't gather user information
+This website is mostly about providing content related to Engineering Management. I don't gather user information
 and logins, I don't support comments, I don't have cookies to track anything. Even so I do integrate with
 other sites and services that do. Mainly I have a integration with [Google
 Analytics](https://marketingplatform.google.com/about/analytics/) to have some statistics about the visitors of the site. I do follow
