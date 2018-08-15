@@ -1,6 +1,6 @@
 ---
 title: "Bug that was not our mistake, except it was"
-date: 2018-08-05T09:31:11+01:00
+date: 2018-08-15T09:31:11+01:00
 draft: false
 categories: ["War Stories", "Ramblings", "Code Quality", "Code Reviews"]
 small_images:
