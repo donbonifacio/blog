@@ -17,7 +17,7 @@ learn.
 
 Wanting to learn new things or accomplish something without a [deadline](/post/dealing-with-deadlines/)
 may end up being wishful thinking. If we set a date and a goal we have better
-changes of achieving it. Imagine that we want to learn Japanese. It's important
+chances of achieving it. Imagine that we want to learn Japanese. It's important
 to time bound that goal. If we instead say that we want to learn Japanese
 in one year we start to have a clear picture of what we'll need to invest
 in terms of our routine.
