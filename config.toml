@@ -16,7 +16,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   name = "Pedro Pereira Santos"
 
 [sitemap]
-  changefreq = "weekly"
+  changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
@@ -55,11 +55,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   debug = false
   since = "2018"
   logoTitle = "Engineering Management"
-  keywords = ["engineering management", "software development", "engineering"]
+  keywords = ["engineering management", "software development", "engineering", "leadership", "mentoring", "interviews"]
   description = "Engineering management processes and ramblings. The goal: build highly motivated, happy and productive sofware development teams."
 
   # paginate of archives, tags and categories
-  archive-paginate = 30
+  archive-paginate = 100
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
