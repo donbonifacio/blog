@@ -144,7 +144,8 @@ a couple of months later:
 We may have one ore more team members that are problematic and that no one
 wants to work with them. Could be because they like the way things are going
 and don't want to improve the quality/experience of the project. Or because
-they have a strong clashing personality and rule all the decisions.
+they have a strong clashing personality and [rule all the
+decisions](/post/how-to-convince-others-that-we-are-right/).
 
 They can also be technically excellent but generate a bad mood.
 

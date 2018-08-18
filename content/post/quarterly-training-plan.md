@@ -70,26 +70,26 @@ training plan for a Java backend developer.
 
 * Attend an online course on fundamentals of: git, SQL, bash and other tooling
   we may use
-* Read a technical book on Java ([Effective Java Programming Language Guide](https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide?ac=1&from_search=true))
-* Read a soft skills book ([The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team?ac=1&from_search=true))
+* Read a technical book on Java ([Effective Java Programming Language Guide](https://amzn.to/2nTmyVy))
+* Read a soft skills book ([The Five Dysfunctions of a Team: A Leadership Fable](https://amzn.to/2MoPQKy))
 
 ### Quarter 2
 
 * Attend an online course on Java
-* Read a technical book on Java ([Java Concurrency in Practice](https://www.goodreads.com/book/show/127932.Java_Concurrency_in_Practice?ac=1&from_search=true))
-* Read a soft skills bool ([How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People))
+* Read a technical book on Java ([Java Concurrency in Practice](https://amzn.to/2LcQvsS))
+* Read a soft skills bool ([How to Win Friends and Influence People](https://amzn.to/2nTutlD))
 
 ### Quarter 3
 
 * Attend a online course on multi-thread programming
-* Read a technical book ([The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer))
-* Read a soft skills book ([The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things))
+* Read a technical book ([The Pragmatic Programmer: From Journeyman to Master](https://amzn.to/2w213GC))
+* Read a soft skills book ([The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://amzn.to/2MHP6iW))
 
 ### Quarter 4
 
 * Attend a online course on multi-thread programming
-* Read a technical book ([Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications))
-* Read a soft skills book ([Rework](https://www.goodreads.com/book/show/6732019-rework))
+* Read a technical book ([Designing Data-Intensive Applications](https://amzn.to/2OUEWci))
+* Read a soft skills book ([Rework](https://amzn.to/2PnUfuR))
 
 ## Customization
 

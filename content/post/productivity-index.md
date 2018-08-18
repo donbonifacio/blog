@@ -122,7 +122,7 @@ doing many things but not actually delivering value. Some examples:
 * We improved the performance of a component that isn't a bottleneck
 
 We may say that getting value out of our deliverables isn't our responsibility.
-And we may be right, there might be someone with more responsibility on that.
+And we [may be right](/post/how-to-convince-others-that-we-are-right/), there might be someone with more responsibility on that.
 But there's a rule I like to follow:
 
 > Everything is everyone's responsibility.
