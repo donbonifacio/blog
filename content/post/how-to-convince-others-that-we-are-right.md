@@ -1,6 +1,6 @@
 ---
 title: "How to convince others that we are right"
-date: 2018-08-22T07:37:37+00:00
+date: 2018-08-22T07:37:37+01:00
 draft: false
 categories: ["Line Management", "Leadership", "Soft Skills", "Mentoring",
 "Training"]
