@@ -21,12 +21,12 @@ processes that may be different. And new people to interact with.
 It's important for the new team member to have a good experience on the first
 days. I usually like to give them some space to adapt. But they also need things
 to do and to get to know the team and the processes. For that purpose I'll
-present here the process I use for an **onboarding template**.
+present here the process I use for an **onboarding checklist template**.
 
 For each new colleague I'll prepare a template on a wiki that has a checklist
 of things to do. Something similar to:
 
-![Onboarding checklist example](/img/onboarding-checklist.png)
+![Onboarding checklist template example](/img/onboarding-checklist.png)
 
 This can be Github's wiki or issues, or Confluence for example. I've been using
 Confluence and a nice feature is that it notifies me of their progress.

@@ -67,7 +67,7 @@ don't, we'll need more time to learn and adapt and we should accept that.
 # Productivity versus comfort zone
 
 One interesting side effect of leaving our comfort zone (and learning new things),
-is that our productivity will be hurt. When we're most productive we know a
+is that our [productivity](/post/productivity-index/) will be hurt. When we're most productive we know a
 lot about our craft, we have a clear picture of what's ahead and what needs
 to be done. On the other hand, when we step on new grounds we'll need time
 to adapt and learn. It's all part of the process.

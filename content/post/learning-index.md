@@ -20,8 +20,8 @@ things? How can we get some help and find mentors?
 
 Continuous learning is very important for self improvement. We may learn new
 things at work, but sometimes we end up solving problems and challenges without
-learning new things, or not learning enough. Companies may have a training
-program, but from what I know about, that's not so common. More common is for
+learning new things, or not learning enough. Companies may have a [training
+program](/post/quarterly-training-plan/), but from what I know about, that's not so common. More common is for
 companies to provide some kind of training budget for employees to use.
 
 However, people may end up not to using the training plafound, due to lack to
@@ -104,8 +104,7 @@ I usually push for reading and try to incorporate that habit. But it's not
 easy if someone doesn't like reading. Fortunately, there are always other
 options.
 
-You can see an example of a more detailed quarterly training plan
-[here](/post/quarterly-training-plan/).
+See: example of a more detailed [quarterly training plan](/post/quarterly-training-plan/).
 
 ### Setting goals
 
@@ -121,6 +120,8 @@ responsibility with the following question:
 With these questions I aim to make my mentee consider how a top contributor on
 that area is built. And that may give me some information and hints on
 how to help.
+
+See: [the importance of setting goals](/post/importance-of-setting-goals/).
 
 ### Understand the end game
 
