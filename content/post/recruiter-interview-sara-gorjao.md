@@ -3,6 +3,7 @@ title: "Recruiter interview: Sara Gorjão - KWAN"
 date: 2018-04-28T07:35:26+01:00
 draft: false
 categories: ["Interviews", "Recruiter Interviews"]
+tags: ["Women in Tech Interviews"]
 small_images:
 - "/img/sara-gorjao.jpg"
 ---

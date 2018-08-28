@@ -4,6 +4,7 @@ date: 2018-08-27T07:00:05+01:00
 draft: false
 categories: ["Interviews", "Coach Interviews", "Mentoring", "Leadership", "Line
 Management"]
+tags: ["Women in Tech Interviews"]
 small_images:
 - "/img/monika.jpeg"
 ---
