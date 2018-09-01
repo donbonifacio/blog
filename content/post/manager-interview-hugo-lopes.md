@@ -4,6 +4,9 @@ date: 2018-08-20T07:17:01+01:00
 draft: false
 categories: ["Interviews", "Manager Interviews"]
 tags: ["Data Science", "Machine Learning"]
+interviewee_name: "Hugo Lopes"
+interviewee_role: "Head of R&D"
+interviewee_company: "James"
 small_images:
 - "/img/hugo-lopes.jpeg"
 ---

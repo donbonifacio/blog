@@ -4,6 +4,9 @@ date: 2018-06-04T08:00:49+01:00
 draft: false
 categories: ["Interviews", "Manager Interviews"]
 tags: ["Data Science", "Machine Learning", "Women in Tech Interviews"]
+interviewee_name: "Raquel H Ribeiro"
+interviewee_role: "Senior Data Scientist"
+interviewee_company: ""
 small_images:
 - "/img/raquel-ribeiro.jpeg"
 ---

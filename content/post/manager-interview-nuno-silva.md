@@ -3,6 +3,9 @@ title: "Manager Interview: Nuno Silva - Sky"
 date: 2018-05-15T09:20:21+01:00
 draft: false
 categories: ["Interviews", "Manager Interviews", "Mentoring", "Leadership"]
+interviewee_name: "Nuno Silva"
+interviewee_role: "Engineering Manager"
+interviewee_company: "SKY"
 small_images:
 - "/img/nuno-silva.jpeg"
 ---

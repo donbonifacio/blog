@@ -3,6 +3,9 @@ title: "Manager interview: Joao Cavalheiro - SUSE"
 date: 2018-08-06T07:26:50+01:00
 draft: false
 categories: ["Interviews", "Manager Interviews", "Mentoring", "Leadership"]
+interviewee_name: "João Cavalheiro"
+interviewee_role: "Engineering Manager"
+interviewee_company: "SUSE"
 small_images:
 - "/img/joao-cavalheiro.jpeg"
 ---

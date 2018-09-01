@@ -3,6 +3,9 @@ title: "Developer interview: Tiago Sousa - Sky"
 date: 2018-04-21T19:50:13+01:00
 draft: false
 categories: ["Interviews", "Developer Interviews"]
+interviewee_name: "Tiago Sousa"
+interviewee_role: "Software Engineer"
+interviewee_company: "SKY"
 small_images:
 - "/img/tiago-sousa.jpg"
 ---
