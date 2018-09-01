@@ -3,6 +3,9 @@ title: "Developer interview: David Amador - Upfall Studios"
 date: 2018-06-10T09:20:29+01:00
 draft: false
 categories: ["Interviews", "Developer Interviews"]
+interviewee_name: "David Amador"
+interviewee_role: "Game Programmer"
+interviewee_company: "Upfall Studios"
 small_images:
 - "/img/david-amador.jpeg"
 ---

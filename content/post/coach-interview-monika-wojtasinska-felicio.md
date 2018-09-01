@@ -5,6 +5,9 @@ draft: false
 categories: ["Interviews", "Coach Interviews", "Mentoring", "Leadership", "Line
 Management"]
 tags: ["Women in Tech Interviews"]
+interviewee_name: "Monika Wojtasinska-Felicio"
+interviewee_role: "Change Manager"
+interviewee_company: "TEAMmatters"
 small_images:
 - "/img/monika.jpeg"
 ---
