@@ -20,12 +20,12 @@ Having goals means that we can focus and see the road ahead. A nice test
 we can do the assess the healthiness of our goals is to ask on [one-on-ones](/post/1on1-framework/)
 the following:
 
-> What are you goals for the next quarter?
+> What are your goals for the next quarter?
 
 We can have several types of responses:
 
 * I guess I'll just follow the backlog and do what's assigned to me
-* I can't commit to goals because I don't know what's to be done
+* I can't commit to goals because I don't know what's going to be done
 * I'll do the same I've been doing
 
 This is the most common I've seen so far. We don't know where we're headed
