@@ -117,3 +117,20 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = true
+
+[[related.indices]]
+name = "tags"
+weight = 100
+
+[[related.indices]]
+name = "categories"
+weight = 90
+
+[[related.indices]]
+name  = "date"
+weight = 10
