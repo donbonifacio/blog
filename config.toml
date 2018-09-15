@@ -50,6 +50,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   weight = 60
   identifier = "about"
   url = "/about/"
+[[menu.main]]
+  name = "Ask me Anything"
+  weight = 70
+  identifier = "ask-me-anything"
+  url = "/ask-me-anything/"
 
 [params]
   debug = false
