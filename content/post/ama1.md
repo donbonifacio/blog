@@ -1,8 +1,8 @@
 ---
 title: "Manager interview: Pedro Santos - AMA"
-date: 2018-09-22T05:24:50+01:00
+date: 2018-09-25T15:24:50+01:00
 draft: false
-categories: ["Interviews", "Manager Interviews", "AMA"]
+categories: ["Interviews", "Manager Interviews", "AMA", "Ramblings", "War Stories"]
 interviewee_name: "Pedro Pereira Santos"
 interviewee_role: "Engineering Manager"
 interviewee_company: "LoanDolphin"
@@ -41,18 +41,18 @@ engineering  manager we need to:
 
 * Train people
 * Motivate people
-* Deal with the fact that we'll be interruped **all the time** :)
+* Deal with the fact that we'll be interrupted **all the time** :)
 * Focus not only on our teams' outcomes but also on the success of the teams
   we interact with
 
-This means responsibilities in other areas like onboarding, recruiting, customer
+This means responsibilities in other areas like [onboarding](/post/onboarding-template/), recruiting, customer
 success, product management, etc. But I'd say that the biggest focus is on
 mentoring and growing the team, and making sure that they are motivated. **If a
 team leader delivers features, an EM delivers healthy teams that deliver features**.
 
 ### Nuno: I'm a new at the Engineering Manager role. What should be my main concerns since day one?
 
-A new engineering manager will be in that sittuation where he/she will be able to
+A new engineering manager will be in that situation where he/she will be able to
 perform the team's work better than the team. But that won't scale. The EM will
 need to change the focus. This was my biggest challenge. Okay, I can deliver
 features with with quality. But how can I train a team to deliver features
@@ -64,15 +64,16 @@ means that we need to focus less on sprint commitments.
 
 My first struggle was actually the one-on-ones part. I never did them and I
 didn't know how to do them. I saw several articles but I didn't quite relate.
-Ultimatly I ended up grabbing several pieces of advices and come up with my
-one-on-one framework.
+Ultimately I ended up grabbing several pieces of advices and come up with my
+[one-on-one framework](/post/1on1-framework/).
 
 When I started as an EM I also did something that helped me a lot. I managed to
 _book_ one on ones with people from other areas. With the heads of product,
 human resources, etc. This allowed me to learn a lot about those areas and
 understand how I could have a bigger impact.
 
-Do find mentors and try to take the most out of them.
+Do find mentors and try to take the most out of them. And do read a lot. You
+can start with [High Output Management](https://amzn.to/2NDmubE).
 
 
 > Ricardo Fiel, Cloud Solution Architect at  [Microsoft](https://www.microsoft.com/)
@@ -125,32 +126,32 @@ lots of context. The team leader will have responsibilities in the deliverables.
 the team delivering on time? Are the delivered artifacts with quality? Is the
 code base easy to change and adapt? Are we adding value? When things go wrong,
 it's the team leader that needs to step up and deal with team. The team leader
-should have a vision and goal for the team, and should lead the team there.
+should have a [vision and goal for the team](/post/importance-of-setting-goals/), and should lead the team there.
 
 A **tech lead** is someone that can deliver a feature from start to finish. Can
-be responsible for the design phase (like writing the RFC), writing the code,
+be responsible for the design phase (like writing the [RFC](/post/rfc-driven-development/)), writing the code,
 managing dependencies, 
 ensuring quality, deploying the feature and assure it's being used with success.
 Sometimes the tech lead and the team leader are the same person. But my personal
 style is very different though. As a team leader I believe that _everyone_
 should be a tech lead, even the rookie developer. Empowering a rookie developer
-to deliver a feature end to end is great for the rookie's motivation and sense
-of recognition. And if the feature is tricky, we can add a seasoned developer as
-a sidekiq for help and mentoring.
+to deliver a feature end to end is great for the rookie's [motivation](/post/satisfaction-index/) and sense
+of [recognition](/post/recognition-index/). And if the feature is tricky, we can add a seasoned developer as
+a sidekick for help and mentoring.
 
-The **project manager** is someone more focused on tasks, deadlines and
-dependencies. Assuring that eveyrthing is going according to plan and dealing
+The **project manager** is someone more focused on tasks, [deadlines](/post/dealing-with-deadlines/) and
+dependencies. Assuring that everything is going according to plan and dealing
 with problems that may arise. Will deal with clients and manage the expectations
-of multiple parties. The PM will be a JIRA/trello/etc master (?) and will have the
+of multiple parties. The PM will be a JIRA/Trello/Asana/etc master (?) and will have the
 tools to understand where the team is at, and help with planning. Now allow me
-to be somewhat controverse here: I do believe that if this is what the PM is
+to be somewhat controversial here: I do believe that if this is what the PM is
 doing, we're not taking the most out of the PM and that the team is lacking. In
 my opinion, we take the most value of a project manager if his/her main focus is on
-forecasting.
+[forecasting](/post/reactive-proactive-forecasting/).
 
 If you want to reach a specific role my advice is to start doing it now. Empower
 yourself, start to do the role's tasks, get one-on-ones with a good mentor for
-that role, start reading books about that role. Set a goal and a training plan
+that role, start reading books about that role. Set a goal and a [training plan](/post/quarterly-training-plan/)
 to get there. Ask your line manager for help.
 
 > Paulo Silva, Tech Lead at [RUPEAL](http://rupeal.com/en)
@@ -167,10 +168,10 @@ proficiency, we won't need to have code commitments and we'll need to focus more
 on training them and motivating them. It's hard to balance all this and things
 are always changing.
 
-I'll tell you what's my ideal comfort zone:
+I'll tell you what's my ideal [comfort zone](/post/comfort-zone-index/):
 
 * I don't have any deliverable commitments
-* I have some code project that is not related with delirables but that adds
+* I have some code project that is not related with deliverables but that adds
   value somehow. For example improving the CI pipeline, some refactoring or
   performance improvement. This allows me to be up to date on the coding part
   but not having the stress of a deadline
@@ -186,7 +187,7 @@ I'll tell you what's my ideal comfort zone:
 * If some feature is behind, I can step in and help when needed
 * I perform one-on-ones and focus on having a plan to challenge and grow the
   team
-* I focus more in proactive tasks and try to have a clear picture of the next 3
+* I focus more in [proactive tasks](/post/reactive-proactive-forecasting/) and try to have a clear picture of the next 3
   months of development
 
 > Ygor Cardoso, Deliver Manager at [Sky](https://www.sky.com/)
@@ -201,7 +202,7 @@ this velocity is more about capacity planning. I mean, we can assess how much a
 team is able to deliver, but we can't compare the delivery speed of two teams.
 
 I may have a sense of how things are going. But it's hard to take that to
-numbers. In Accelerate they present statistic evidence of several factors that
+numbers. In [Accelerate](https://amzn.to/2xKEoPe) they present statistic evidence of several factors that
 are associated with high performers. And I'm completely aligned with their
 findings. But they actually invest a chapter explaining why gathering this kind
 of information via surveys is better than doing it with measurable automatic
@@ -209,7 +210,7 @@ data.
 
 So, I can have a sense of how's our delivery speed is going, but I can't come up
 with a framework/process that gives me those numbers periodically. Maybe too
-much unknowns on our area. :)
+much unknowns in our area. :)
 
 But I do struggle with this. There are things that I pay attention too:
 
@@ -229,7 +230,7 @@ lately I've been aware of something that is even more important. When developers
 work on something they start to gain context and learn more. So they start
 creating abstraction layers. This makes them more effective. In time we'll have
 many indirection layers. So the bigger challenge here will not be a technically
-one, but rather it's related with **learning**.
+one, but rather it's related with **[learning](/post/learning-index/)**.
 
 How can we make sure a team is aware of everything that is happening? And when
 new developers join the team, how can we make sure that they are up to speed
