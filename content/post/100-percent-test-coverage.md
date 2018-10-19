@@ -68,7 +68,8 @@ hard to test and uses callbacks and etc. And when there's a bug? We're in troubl
 
 **If something is hard to test, it will be hard to maintain.**
 
-And hard to maintain translates to poor productivity and confidence. From my
+And hard to maintain translates to poor
+[productivity](/post/productivity-index/) and confidence. From my
 experience projects with good coverage but not 100% miss the following:
 
 * Complex scenarios that are hard to test
@@ -114,7 +115,7 @@ because of a developer distraction or an automatic merge.
 
 Having more tests can mean a slower test suite and a longer feedback loop to
 know if everything is ok. I do believe that we should track the overall speed
-of the test suites over time and should favor pure unit tests. Spliting the
+of the test suites over time and should favor pure unit tests. Splitting the
 logic in pure functions and functions with side effects does help here.
 
 If we have these stats, we can have a picture of how much time is added to the
@@ -137,7 +138,7 @@ condition that it's very rare and we end up not creating a test for it. Example:
 
 ```javascript
 if (someCondition && anotherCondition) {
-  collection.forEach((element) -> {
+  collection.forEach((element) => {
     if (someRareCondition(element)) {
       // operate...
     }
@@ -362,7 +363,7 @@ function getAllTokens(lang) {
 // test
 describe("language tokens", () => {
   test("should have non empty strings as values", () => {
-    getAllTokens("en").forEach((key, value) -> {
+    getAllTokens("en").forEach((key, value) => {
       expect(value).toBeNonEmptyString();
     });
   });
@@ -376,9 +377,9 @@ can dynamically generate tests.
 ```javascript
 // test
 describe("language tokens", () => {
-  ["en", "pt"].forEach((lang)-> {
+  ["en", "pt"].forEach((lang) => {
     test("should have non empty strings as values for language: " + lang, () => {
-      getAllTokens(lang).forEach((key, value) -> {
+      getAllTokens(lang).forEach((key, value) => {
         expect(value).toBeNonEmptyString();
       });
     });
