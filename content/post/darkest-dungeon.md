@@ -38,7 +38,7 @@ tools.
 
 It's impressive how the game _forces_ the player to be a ruthless manager. While
 I always try to be a good manager to my virtual team, the game mechanics
-made me summon my bad side. Specially then the game made me realise the
+made me summon my bad side. Specially when the game made me realise the
 following:
 
 **In this game, people are the less expensive resource**.
