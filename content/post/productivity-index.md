@@ -142,7 +142,8 @@ are we going to _sell it_.
 
 Quality is an attribute of our deliverables. We may be fast and finish everything
 but introduce technical debt and create something that will be very hard to
-change in the future. This may lead to bugs and breaking things elsewhere and
+change in the future. This may lead to
+[bugs](/post/zero-bug-policy/) and breaking things elsewhere and
 ultimately will impact the team's productivity.
 
 See: [that project where no one wants to work at](/post/project-no-one-wants-to-work-at/).

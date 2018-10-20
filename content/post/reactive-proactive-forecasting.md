@@ -25,7 +25,8 @@ From this point of view, a task can be:
 # Being reactive
 
 I'd say that this is the most common type of task. Something happens and we need
-to _react_ to it. Typical examples are those related with production bugs.
+to _react_ to it. Typical examples are those related with [production
+bugs](/post/zero-bug-policy/).
 We have a bug report, depending on the severity, someone needs to attend to it.
 
 Another scenario is when _something_ comes up that is very _important_. For

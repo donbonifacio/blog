@@ -2,7 +2,8 @@
 title: "RFC driven development"
 date: 2018-07-18T07:36:15+01:00
 draft: false
-categories: ["Code Quality", "Code Reviews", "Planning", "Executing"]
+categories: ["Code Quality", "Code Reviews", "Planning", "Executing", "Technical
+Leadership"]
 images:
 - "/img/rfc.png"
 discuss:
@@ -61,7 +62,7 @@ when coding starts.
 This process works very well to communicate intent and get feedback before
 starting to develop new tasks. It allows us to have a clear picture of what's
 ahead and what needs to be done. By gathering feedback we may find problems and improvement
-points _before_ starting the implementation. This may prevent that pull request
+points _before_ starting the implementation (see [Zero bug policy](/post/zero-bug-policy/)). This may prevent that pull request
 review where someone just points out that:
 
 * Some code was already implemented elsewhere

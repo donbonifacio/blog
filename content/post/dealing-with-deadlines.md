@@ -111,7 +111,8 @@ happening again?
 
 # What if we don't fail the deadline but we should have failed it?
 
-Sometimes we push and are able to delivery something. But that may have bugs,
+Sometimes we push and are able to delivery something. But that may have bugs
+(see [Zero bug policy](/post/zero-bug-policy/)),
 add technical debt and the team may not be proud and comfortable with the
 deliverables. There's always some line that states the amount of bugs that are
 _allowed_. Let's make sure that everyone agrees on that line.

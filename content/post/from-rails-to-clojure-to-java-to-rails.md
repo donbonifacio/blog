@@ -38,7 +38,7 @@ But the team focused on turning the ship around. We started following
 clean architecture's guidelines. We used presenters, interactors and repositories.
 At some point I believe part of the code base was actually enjoyable and properly
 built. The amount of bugs and performance issues hugely declined and we were
-proud of it. But we had only touched maybe 40% of the application.
+proud of it (more details at [Zero bug policy](/post/zero-bug-policy/)). But we had only touched maybe 40% of the application.
 
 At this point I started to search for other tools. I went searching for something
 that would be more adapted to what I wanted: productivity,

@@ -168,7 +168,8 @@ As an example, here's a list of things that I do or follow:
   problem is someone's responsibility, it's always the team responsibility
 * When I deliver code, I aim to write good commit messages, documentation and
   have a good test coverage
-* When I fix a bug, I try to go for the root cause even if that takes longer
+* When I fix a bug, I try to go for the [root
+  cause](/post/zero-bug-policy/#1-always-address-the-root-cause) even if that takes longer
 * I always push for best practices, but sometimes I do compromise if needed
 
 So by reading this list you'll have a grasp of what I'm about and about
