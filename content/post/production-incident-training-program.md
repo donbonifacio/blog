@@ -92,7 +92,8 @@ should also have:
 
 Because we may change the code to introduce problems. Is this fair? This will
 add a lot to the trickiness of the problems. But the truth is: there could have
-been some patch that introduced a bug. So changing code is fair game. Let's
+been some patch that introduced a
+[bug](/post/zero-bug-policy/). So changing code is fair game. Let's
 give them access to it.
 
 Next we have several suggestions of replicable problems that we can use for

@@ -59,7 +59,8 @@ not an innovation by itself but rather it's a side effect of pushing to be
 
 # The quest for quality
 
-Quality processes like TDD, [RFCs](/post/rfc-driven-development/), pair programming, [code reviews](/categories/code-reviews/), having an automatic
+Quality processes like TDD, [RFCs](/post/rfc-driven-development/),
+[zero bug policies](/post/zero-bug-policy/), pair programming, [code reviews](/categories/code-reviews/), having an automatic
 build pipeline with continuous integration... all these things are sometimes
 hard to sell. Sometimes I feel that it's important for a team to feel the pain
 of [bad

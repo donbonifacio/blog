@@ -212,7 +212,7 @@ back to previous practices will cause discussions and frustration.
 This should be our focus. Sometimes it's not easy to see these problems coming
 and when we realise it's already too late. What can we do about this?
 
-* **Go for a zero bug policy**: all bugs should be resolved right away. If
+* **Go for a [zero bug policy](/post/zero-bug-policy/)**: all bugs should be resolved right away. If
   something is not that important, should be removed from the bug tracker and
   moved somewhere else (product backlog?).
 * **Use quality inducing techniques**: like code reviews or pair programming.
