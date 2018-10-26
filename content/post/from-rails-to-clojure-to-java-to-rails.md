@@ -29,12 +29,13 @@ different tech stacks, and also it's drawbacks.
 ## Rails 2.3
 
 This was a big project in Rails 2.3. It was the typical Rails monolith that had
-gone out of control. It had +1K endpoints and used lots of gems. It was actually
+[gone out of control](/post/project-no-one-wants-to-work-at/). It had +1K endpoints and used lots of gems. It was actually
 impossible to upgrade because of dependencies. At some point it had several
 maintainability and performance issues, as we would expect from a fast go to
 market approach.
 
-But the team focused on turning the ship around. We started following 
+But the team focused on [turning the ship
+around](/post/work-smart-vs-work-hard/). We started following 
 clean architecture's guidelines. We used presenters, interactors and repositories.
 At some point I believe part of the code base was actually enjoyable and properly
 built. The amount of bugs and performance issues hugely declined and we were
@@ -54,7 +55,9 @@ community because of the huge amount of innovation that comes from there.
 
 We implemented a web api with several bounded context services. We used async HTTP
 and async communication to the database, making the server fully async end to end.
-Everything was fast and we were very productive, and were constantly learning.
+Everything was fast and we were very
+[productive](/post/productivity-index/), and were [constantly
+learning](/post/learning-index/).
 
 Not everything was great. Hiring was problematic. It was complicated to find
 people that knew Clojure or even that were willing to learn. And bringing people
