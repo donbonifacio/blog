@@ -36,8 +36,8 @@ changes don't break anything.
 On the other hand we can also have low confidence on covered code. We could
 have tons of tests and be afraid to push something into production. The truth
 is that our tests just cover a predefined set of combinations
-and use cases. This can be mitigated with [generative testing](https://www.pivotaltracker.com/blog/generative-testing/),
-but ultimately there's always the chance that we missed something.
+and use cases. This can be mitigated with [generative testing](https://www.pivotaltracker.com/blog/generative-testing/)
+or [mutation testing](/post/mutation-testing/) but ultimately there's always the chance that we missed something.
 
 ## So what do we have to gain?
 
