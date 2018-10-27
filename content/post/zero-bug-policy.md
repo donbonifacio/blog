@@ -165,7 +165,7 @@ scenarios with other techniques.
 
 We can see if we can take value from [generative
 testing](https://en.wikipedia.org/wiki/QuickCheck) or [mutation
-testing](https://en.wikipedia.org/wiki/Mutation_testing).
+testing](/post/mutation-testing/).
 
 ### 12. Take care of the test suite healthiness
 
