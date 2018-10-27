@@ -5,6 +5,8 @@ draft: false
 categories: ["War Stories", "Ramblings", "Technical Leadership"]
 small_images:
 - "/img/values-and-habits.png"
+discuss:
+  - ["Twitter", "https://twitter.com/donbonifacio/status/1056074993698791424"]
 ---
 
 <img src='/img/values-and-habits.png' style='float:right; width:200px;margin-left:15px'/>
