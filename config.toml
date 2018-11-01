@@ -56,6 +56,12 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "ask-me-anything"
   url = "/ask-me-anything/"
 
+[[menu.main]]
+  name = "Interviews"
+  weight = 80
+  identifier = "interviews"
+  url = "/categories/interviews/"
+
 [params]
   debug = false
   since = "2018"
