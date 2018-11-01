@@ -5,6 +5,9 @@ draft: false
 categories: ["Code Quality", "Testing"]
 small_images:
 - "/img/debates.png"
+discuss:
+  - ["Twitter", "https://twitter.com/donbonifacio/status/1057564857409638400"]
+  - ["Reddit", "https://www.reddit.com/r/programming/comments/9syxz3/first_impressions_mutation_testing/"]
 ---
 
 <img src='/img/debates.png' style='float:right; width:200px;margin-left:15px'/>
