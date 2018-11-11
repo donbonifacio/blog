@@ -254,7 +254,7 @@ We started to question our process and consider improvements to it. Sometimes it
 only took simple patches to make improvements. Other times we actually had to
 invest in new features and improvements to improve the healthiness of the
 application. All this was after we settled for a process with incident reports
-and postmortems, where we discussed what would be necessary to fix issue by
+and [postmortems](/post/postmortem-culture/), where we discussed what would be necessary to fix issue by
 issue for good.
 
 After this hardening period, we managed to have 3 sprints without **any**

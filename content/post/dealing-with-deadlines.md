@@ -90,7 +90,8 @@ then there will be added frustration that will pile up on the **frustration debt
 # And if we fail the deadline?
 
 If we have a healthy team that is productive and had a commitment to deliver
-something on a specific date, and that wasn't possible, then a _postmortem_ is
+something on a specific date, and that wasn't possible, then a
+[postmortem](/post/postmortem-culture/) is
 in order. Usually we do postmortems when production is down, but I believe we
 should do postmortems whenever something failed.
 

@@ -35,7 +35,7 @@ When we find the issue, then we can:
 
 * Try to make some amend and put things online
 * Figure out the root cause and plan to fix it
-* Create a blameless postmortem
+* Create a blameless [postmortem](/post/postmortem-culture/)
 
 All this needs to be trained. My idea here is to setup a _game_ that will act
 as a certification program for developers to be able to be on call and handle
