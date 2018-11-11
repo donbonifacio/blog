@@ -51,7 +51,7 @@ some examples:
 * When production is down we fix it and don't take the time to create an
   incident report and share what happened. We don't track the number of
   outages we had.
-* In a similar way, we don't create a postmortem with things went bad and we
+* In a similar way, we don't create a [postmortem](/post/postmortem-culture/) with things went bad and we
   don't take the time to understand our problems and fix them.
 * We may have manual periodical tasks that take 10+ minutes and we don't take the time
   (couple of days) to automatise them
