@@ -32,7 +32,7 @@ that is 100% covered and still find problems with mutation testing.
 I picked a small utility module that we have, but that it's used everywhere. The
 module already has 100% code coverage. So it was a nice starting point.
 
-I used [Mutant](https://github.com/mbj/mutant) for ruby. The first interesting
+I used [Mutant](https://github.com/mbj/mutant) for ruby (see my [interview with Mutant's author](/post/consultant-interview-markus-schirp/)). The first interesting
 thing I noticed was that I didn't have a command to run against _the full_
 module. The CLI kind of hinted that I should run it against a specific
 namespace.
