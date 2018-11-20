@@ -5,14 +5,14 @@ draft: false
 categories: ["Interviews", "Consultant Interviews"]
 interviewee_name: "Markus Schirp"
 interviewee_role: "Consultant"
-interviewee_company: "Freelancer"
+interviewee_company: "Schirp DSO"
 small_images:
 - "/img/markus-schirp.jpg"
 ---
 
 <img src='/img/markus-schirp.jpg' style='float:right; width:200px;margin-left:15px'/>
 
-Markus Schirp ([twitter](https://twitter.com/_m_b_j_), [linkedin](#), [homepage](#)) is
+Markus Schirp ([twitter](https://twitter.com/_m_b_j_), [linkedin](https://www.linkedin.com/in/markusschirp/), [homepage](https://mbj.io)) is
 the author of [Mutant](https://github.com/mbj/mutant), a mutation testing tool
 for Ruby.
 
@@ -42,19 +42,18 @@ from their state of despair, which lead me to develop various tools improving
 this activity.
 
 The reason I'm doing this interview, is that I'm the author of the Ruby mutation
-testing tool [mutant](https://github.com/mbj/mutant). Which allows to narrow the
-semantic coverage gab between tests and the code under test. Which is especially
-helpful in dynlangs as there are other than tests no guarantees for the programs
-properties.
+testing tool [mutant](https://github.com/mbj/mutant). Which allows me to narrow the
+semantic coverage gap between tests and the code. Which is especially helpful in
+dynlangs as there are, other than tests, no guarantees for the programs properties.
 
 > Can you give an overview of what's mutation testing and the value we can take from it?
 
 Note that the following definitions are "my" terms, I made up for my activities.
-Its very likely not every tool/literature etc you can find will agree to them.
+Its very likely that not every tool/literature etc you can find, will agree to them.
 
 Mutation testing is the process to heuristically determine which semantics of
 your program are not covered by tests. It does not replace a type system, a
-totality checker or a formal proof. But it can you get closer to those
+totality checker or a formal proof. But it can get you closer to those
 guarantees.
 
 Its based on the process of automatically identifying changes to your code base
@@ -68,9 +67,9 @@ things:
 1. The code has semantics that should not be present, else there would have been
    a test for that semantic to be present. So the code does more than the tests
    asks for and should be reduced in semantics.
-2. The code has semantics that are originally present, but there is not test to
-   enforce the semantic the mutation testing tool changed (or removed) is
-   present.
+2. The code has semantics that should be present, but the mutation testing tool
+   cannot find a covering test. So the developer should add a test covering this
+   fact.
 
 Its up to the developer who reads a mutation testing report to determine which
 course of action to take. I observe that the more mature the code base the more
@@ -137,12 +136,12 @@ Reported as:
 > Do you have specific examples of life saving results, or some weird bugs that
 > were detected right away?
 
-Life saving results, no. Writing software life depends on in Ruby would be a big
-mistake anyway.
+Life saving results, no. Writing software in Ruby, where life depends on, would
+be a big mistake anyway.
 
 Probably project saving results. Pulling off some very important refactoring at
-the heart of overgrown rails projects would for me not be possible without being
-able to "nail a piece of behavior into the ground". That allows to refactor
+the heart of overgrown rails projects, would for me not be possible without being
+able to "nail a piece of behavior into the ground". That allows me to refactor
 parts without changing semantics unintentionally.
 
 Weird bugs at commit stage are plenty to be seen. Often your assumptions get
@@ -153,7 +152,7 @@ Its typically fascinating on how much "dead" code is hidden in code bases.
 Imagine `a(b(c(d))))` style transforms / filters. Often enough intermediate
 stages only have an effect for edge cases, but these either cannot reach that
 code anymore due project history, or are totally unspecified. The totally
-unspecified case often leads to discover semantic problems that reveal security
+unspecified case often lead to discover semantic problems that reveal security
 issues.
 
 
@@ -163,7 +162,7 @@ issues.
 > any examples of these patterns come to mind?
 
 A big yes to all. Mutant favors to use the simplest possible primitive that
-fulfills the observed semantics. Using a more capable primitive to do the job a
+fulfills the required semantics. Using a more capable primitive to do the job a
 less powerful primitive could do is a mistake. As the more powerful semantics
 are just unused, laying dormant till by accident they have a likely undesired
 effect.
@@ -186,7 +185,7 @@ So "just" by using mutation testing you get lots of secondary effects that
 increase a teams performance.
 
 > I can see mutation testing being perfect for _pure_ functions with a fast test
-> suite. But how to handle code with side effects? Having database calls or
+> suite. But how do you handle code with side effects? Having database calls or
 > slower integration tests? Do you still feel Mutant to be useful on these
 > scenarios? What tips can you provide in this context?
 
@@ -215,7 +214,7 @@ implementers wanted to pick them up.
 
 > What about other maybe complementary practices? For example property-based/testing? Do you have experience with it? Are there other practices that can complement or augment mutation testing?
 
-A good complementary practice is property testing indeed. 
+A good complementary practice is property testing indeed.
 
 I personally describe it as "orthogonal" to mutation testing. As in: Has some
 overlap in terms of "can prove things about your code base", but is not
@@ -227,35 +226,36 @@ My mental model is close to:
   to never add semantics)
 * Property based testing: Fuzz the input against the tests
 
-This leads a hole I'd also like to explore in the future: Fuzz the tests to find
+This leads to a hole I'd also like to explore in the future: Fuzz the tests to find
 the minimal that covers all mutations ;).
 
 I've got experience in property based testing, mostly on Haskell projects,
 quickcheck and recently hedgehog are the projects used there a lot.
 
-Many mutation operators, especially semantic reduction ones can be found
-mirrored in the property testing tools "reduce" step, where once a property
-violating input was found input reduction is performed to present the developer
-a "minimal violating input".
+Many mutation operators, especially semantic reduction ones, can be found
+mirrored in the property testing tools "reduce" step. Once a property violating input
+was found, input reduction is performed, to present the developer a
+"minimal violating input".
 
 Other good complements of mutation testing are: Rich type systems. I currently
 estimate about 90% of the mutations in a typical Ruby project would come back
 "killed by the type checker" already.
 
-This is an astonishing high number, and mutations that are dead are "tests you
-do not have to write anymore". This is the cornerstone of my opinion that
-dynamic languages are a smell, a form of tech debt. One that has to be very
-carefully managed to have a payment plan ready for that tech debt, including
-compound interest.
+This is an astonishing high number, and mutations that are killed by the type checker,
+are "tests you do not have to write anymore".
 
-Also type checkers are more peformant than the average unit test, even on pure
+This is the cornerstone of my opinion that dynamic languages are a smell,
+a form of tech debt. One that has to be very carefully managed. A payment plan has to be ready
+for that tech debt, including compound interest.
+
+Also type checkers are more performant than the average unit test, even on pure
 code.
 
 In the presence of types, mutations emitted by the mutation testing engine can
 also be made more interesting. As type directed mutations can help the engine to
 identify much more valid high level cases. Also in some cases the types
-themselves can be mutated, to reduce unused expressivness the types permit the
-value level to do. This is an active subject of my personal research.
+themselves can be mutated, to reduce unused expressiveness the types permit the
+value level. This is an active subject of my personal research.
 
 Type directed mutations are even possible in dynlangs, and I've got some private
 mutant forks that do some of these.
@@ -264,7 +264,7 @@ mutant forks that do some of these.
 > improve end to end quality of software deliverables?
 
 I'd like to answer this starting with the axioms behind the best practices, and
-than show on how these practices are instances fo the axioms applied.
+than show on how these practices are instances for the axioms applied.
 
 My current axioms that are the root of my development practices are:
 
@@ -277,12 +277,10 @@ So it boils down to: How do we make it harder to do the wrong thing, and make it
 easier to do the right thing. The answer is tooling. Bicycles for brains.
 
 And applying the first level axioms results in the following ideas, that when
-embraced by the entire development team reduces lots of drift. The ideal cases
-is that when everybody follows the same axioms, and rules derived from it we
-result in bit wise identical deliverables. I know this is the ideal state we'll
-never reach, but I see value in target it and getting really close to it,
-despite the delta between current and ideal state will always be bigger than
-zero.
+embraced by the entire development team reduces lots of drift. The unreachable
+ideal is that everybody, applying the same axioms and derived rules, results in bit wise
+identical code. This ideal can never be reached, but the closer we get to it the more
+healthy the project.
 
 Some consequences:
 
@@ -295,16 +293,16 @@ Some consequences:
   worse to the eyes or goes against someones preference". Technical weight of a
   team member should only be the tie breaker and almost never be invoked.
 * Have a payment plan for any kind of tech debt ready, that also acknowledges
-  compound interest. And if there is no payment plan be honest to at least
+  compound interest. And if there is no payment plan, be honest to at least
   acknowledge the tech debt.
 * Small deliverables, as its easier to identify if they fall below or above the
   contribution threshold.
-* If instances of a certain flag show up often for review, automate that flag
+* If instances of a certain flag show up often on review, automate that flag
   away, so its caught by your CI not wasting precious review time.
 * Assume the reviewer is below the contribution threshold when reviewing. The
   only thing you cannot bribe is the automated checks.
-* Human discipline time above the contribution threshold is far to precious and
-  rare to be spend on automat-able tasks.
+* Human "discipline time above the contribution threshold" is far to precious and
+  rare to be spend on automatable tasks.
 * Make tools if they are missing in your environment (this is on how mutant was
   created).
 
