@@ -44,7 +44,7 @@ with improving these activities.
 The reason I'm doing this interview, is that I'm the author of the Ruby mutation
 testing tool [mutant](https://github.com/mbj/mutant). Mutant allows me to narrow the
 semantic coverage gap between tests and the code. That's especially helpful in
-dynmic languages as these, apart from tests, have no guarantees for the program's
+dynamic languages as these, apart from tests, have no guarantees for the program's
 properties at runtime.
 
 > Can you give an overview of what mutation testing is and how we can benefit from it?
