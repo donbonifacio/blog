@@ -12,7 +12,7 @@ small_images:
 As a _line manager_ one of my responsibilities is to level up developers. This
 is something very challenging that I started to like a lot. I have a primary
 [goal](/post/importance-of-setting-goals/) on my [1on1s](/post/1on1-framework/):
-how can I level up this person? And how can I also improve myself in the process?
+how can I level up this person?
 
 This starts by trying to understand what my mentees value and where do they see
 themselves. One way I try to do that is by asking: 
@@ -41,8 +41,8 @@ And if we don't know our destination, it's harder to get there more efficiently.
 
 From _my_ observations and experiences I started to register what _I_ consider to
 be a list of skills and practices that top performers share. I try to have a
-practical [training plan](/post/quarterly-training-plan/) to suggest. But I also
-focus on day to day common tasks and how to improve them.
+long term practical [training plan](/post/quarterly-training-plan/) to suggest.
+But I also focus on day to day common tasks and how to improve them.
 
 Most of
 these things are debatable and depend on the environment, project and on people
@@ -68,11 +68,11 @@ so that other people can understand our reasoning.
 ### Welcome feedback, have empathy and humility
 
 When we share information we're exposing ourselves and our ideas. We will be
-subject to criticism. Well, that's actually to be expected and well received. We
+subject to criticism. That's actually to be expected and  to be well received. We
 may have people that didn't understand our reasoning or maybe that don't agree
 with it at all.
 
-Knowing how to receive feedback, specially when the feedback is harsh, is hard.
+Knowing how to receive and give feedback, specially when the feedback is harsh, is hard.
 We'll need to understand the point of view of our colleagues and accept it.
 We'll need to understand that sometimes we're wrong and deal with it.
 
@@ -92,18 +92,19 @@ Everything has its tradeoffs and we need to be aware of them.
 
 We need to have a mindset of [continuous learning](/post/learning-index/). A
 good strategy is to come up with learning sources and make the habit of using
-them. I usually lean to books for it, and I do have the _feeling_ that top
-performers read lots of books.
+them. I usually lean to books but I also know developers that find other ways
+to stay up to date (podcasts,
+meetups, conferences, peer networks, social media, ...). And this is
+very important.
 
-But I also know developers that find other ways to stay up to date. And this is
-very important. We need to do research and learn new things. Or else, how are we
+We need to do research and learn new things. Or else, how are we
 going to know what's the best strategy to address new unseen problems?
 
 ### Continuous teaching and information sharing
 
 Learning, feedback handling, being pragmatic, etc, are all useful tools a developer
-may have. But to really potentiate this knowledge we need to share what we know
-with our team and company.
+may have. But to really potentiate this knowledge we need to be able to share
+what we know and what we're doing with our team and company.
 
 A good way to do this is when reviewing pull requests or RFCs. Trying not only
 to analyse the text, but also trying to find improvement points our colleague may
@@ -121,14 +122,26 @@ We should share with our team and our line manager our expectations. Being clear
 here can take away assumptions that may cause harm in the future. So we should
 be clear in what we like and dislike.
 
-We should also be clear about our strengths and weaknesses, at least to our line
-manager. If we're working in an environment that fosters trust, this will be
-very important.
+We should also be clear about our strengths and weaknesses. If we're working
+in an environment that fosters trust, this will be very important.
 
+### Quality mindset
 
 Quality and value mindset
+
 Have good knowledge  - Know the business domains and project ecosystem
-Humble, asks why a lot (just because you're the best in the neighbouhood doesn't mean you're good)
+
+### Be humble
+
+How do we know that we don't have the best idea if we don't welcome feedback?
+We need to accept all inputs and see the value in them. If we are closed to
+outside considerations we'll have poorer outcomes. Even if we in fact have the
+best strategy and are more experienced than our teammates, just having the
+process to reason and explain the whys will make our proposition better.
+
+> Just because we're the best in the neighbourhood doesn't mean we're good
+
+Mentoring
 
 ## Technical proficiency
 Know about some languages, each tool for the job. But hightly skill in one is
@@ -165,6 +178,6 @@ Survey for feedback
 
 # Success stories
 
-Macos and Fábio's stories and André
+Macos and Fábio's stories and André, cláudia
 
 # Summary
