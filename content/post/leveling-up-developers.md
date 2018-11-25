@@ -40,9 +40,12 @@ And if we don't know our destination, it's harder to get there more efficiently.
 # What makes a top performer?
 
 From _my_ observations and experiences I started to register what _I_ consider to
-be a list of skills and traits that top performers share. I try to have a
-practical [training plan](/post/quarterly-training-plan/) to suggest. Most of
-these things are debatable and depend on the environment and on people
+be a list of skills and practices that top performers share. I try to have a
+practical [training plan](/post/quarterly-training-plan/) to suggest. But I also
+focus on day to day common tasks and how to improve them.
+
+Most of
+these things are debatable and depend on the environment, project and on people
 themselves. But it does foster debate and acts as a starting point.
 
 ## Communication and Collaboration
@@ -64,26 +67,78 @@ so that other people can understand our reasoning.
 
 ### Welcome feedback, have empathy and humility
 
+When we share information we're exposing ourselves and our ideas. We will be
+subject to criticism. Well, that's actually to be expected and well received. We
+may have people that didn't understand our reasoning or maybe that don't agree
+with it at all.
+
+Knowing how to receive feedback, specially when the feedback is harsh, is hard.
+We'll need to understand the point of view of our colleagues and accept it.
+We'll need to understand that sometimes we're wrong and deal with it.
+
+This process may be _slower_ and sometimes _frustrating_, but the outcome is
+that our deliverables will be battle tested and overall with better quality.
+
+### Flexible and pragmatic
+
+Sometimes we need to compromise. We may have the best idea but it may not be
+possible to accomplish it. We may need to take some _shortcuts_ to get there.
+We work in groups of people and for companies. There are lots of ideas and
+objectives on the table and we need to be _political_ in dealing with all that.
+
+Everything has its tradeoffs and we need to be aware of them.
+
+###  Continuous learning
+
+We need to have a mindset of [continuous learning](/post/learning-index/). A
+good strategy is to come up with learning sources and make the habit of using
+them. I usually lean to books for it, and I do have the _feeling_ that top
+performers read lots of books.
+
+But I also know developers that find other ways to stay up to date. And this is
+very important. We need to do research and learn new things. Or else, how are we
+going to know what's the best strategy to address new unseen problems?
+
+### Continuous teaching and information sharing
+
+Learning, feedback handling, being pragmatic, etc, are all useful tools a developer
+may have. But to really potentiate this knowledge we need to share what we know
+with our team and company.
+
+A good way to do this is when reviewing pull requests or RFCs. Trying not only
+to analyse the text, but also trying to find improvement points our colleague may
+have and present them in a healthy way.
+
+## Behave like role models
+
+[Leading by example](/post/most-effective-way-values-habits/) is a great way to
+share best practices and to induce change. If we start changing our behaviours
+to better alternatives other people will follow us.
+
+### Put forth our expectations
+
+We should share with our team and our line manager our expectations. Being clear
+here can take away assumptions that may cause harm in the future. So we should
+be clear in what we like and dislike.
+
+We should also be clear about our strengths and weaknesses, at least to our line
+manager. If we're working in an environment that fosters trust, this will be
+very important.
 
 
-Welcome feedback, empathy, humility
-Flexible and pragmatic
-Continuous leaarning
-Continuous teaching and information sharing
-Continuos improvement (how to know the best tool for the job if we don't invest
-in researching new tools when we don't need them)
-Are role models
-Give expextations, what you like and dislike, strenghts and weaknesses
 Quality and value mindset
-Have good knowledge 
+Have good knowledge  - Know the business domains and project ecosystem
 Humble, asks why a lot (just because you're the best in the neighbouhood doesn't mean you're good)
+
+## Technical proficiency
 Know about some languages, each tool for the job. But hightly skill in one is
 also ok. Rust
 Code that is easy to change, that use proper abstractions, that is easy to
 understand and copy paste friendly
 Functional programming concepts
 Tests (mutatin, generative, end to end)
-Know the business domains and project ecosystem
+
+## Non direct responsibilities
 Interested Have know how of DevOps/operations/deploys/CI
 Debug and troubleshooting
 - Knows their tooling
@@ -91,18 +146,25 @@ Debug and troubleshooting
 - Knows about version control, how to rebase interactive, how to build a story
 Have a vision
 
+# How to grow top performers?
+
 This is a lot. So how do we train people on this? Step by step
 - metaphor of the fitness coach that trains little by little
 
 Points not about skillset, but about day to day practice
 You are what you repeatedly do. Use this to your advantage by doing the things you want to become.
+When I suggest a change I may have the I don't have time excuse. That can mean:
+
+* I don't think that the change brings value enough for me to invest time in it
+* I believe the change is good, but it will compromise my productivity
+
+# Give me your opinion
 
 Scientific method: these are my hypothesis, you are my peers
 Survey for feedback
 
+# Success stories
+
 Macos and Fábio's stories and André
 
-When I suggest a change I may have the I don't have time excuse. That can mean:
-* I don't think that the change brings value enough for me to invest time in it
-* I believe the change is good, but it will compromise my productivity
-
+# Summary
