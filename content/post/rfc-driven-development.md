@@ -10,6 +10,7 @@ discuss:
   - ["Rust RFC Template", "https://github.com/rust-lang/rfcs/blob/master/0000-template.md"]
   - ["How to write a good software design doc", "https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c"]
   - ["6 Lessons I learned while implementing technical RFCs as a management tool", "https://buriti.ca/6-lessons-i-learned-while-implementing-technical-rfcs-as-a-management-tool-34687dbf46cb"]
+  - ["Scaling Engineering Teams via Writing Things Down and Sharing - aka RFCs", "https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/"]
 ---
 
 
