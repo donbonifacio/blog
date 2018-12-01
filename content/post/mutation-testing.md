@@ -195,3 +195,8 @@ I'll try to keep using it and gain more experience with it. Even if this is
 something heavy that yields few improvement points, I feel that it brings enough
 value to be considered. It's another tool on the quest for [zero
 bugs](/post/zero-bug-policy/).
+
+> "I can’t recall ever getting a call to help a department or program get its
+> application back on the rails and discovering a nice, healthy unit test
+> suite." - [Interview with Erik
+> Dietrich](/post/consultant-interview-erik-dietrich/)

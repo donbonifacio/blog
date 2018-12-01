@@ -101,6 +101,11 @@ This breaks when we add someone new to the team. It's easy for someone to
 make assumptions and change things that shouldn't be changed. And without tests,
 it's easy for those problems to impact production.
 
+> "I can’t recall ever getting a call to help a department or program get its
+> application back on the rails and discovering a nice, healthy unit test
+> suite." - [Interview with Erik
+> Dietrich](/post/consultant-interview-erik-dietrich/)
+
 ### Very slow feedback loops
 
 Even if we have a test suite and a CI pipeline, having one that takes lots of

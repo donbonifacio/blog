@@ -78,6 +78,11 @@ concurrency issues.
 We should also add proper documentation to the test, explaining what was
 happening and what was our approach.
 
+> "I can’t recall ever getting a call to help a department or program get its
+> application back on the rails and discovering a nice, healthy unit test
+> suite." - [Interview with Erik
+> Dietrich](/post/consultant-interview-erik-dietrich/)
+
 ### 4. Bugs on design phase are easier to solve
 
 If we can detect bugs before starting development, that would be ideal. This is
