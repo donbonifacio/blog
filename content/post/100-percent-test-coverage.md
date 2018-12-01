@@ -76,6 +76,11 @@ experience projects with good coverage but not 100% miss the following:
 * Complex scenarios that are hard to test
 * Simple and basic code that is not important
 
+> "I can’t recall ever getting a call to help a department or program get its
+> application back on the rails and discovering a nice, healthy unit test
+> suite." - [Interview with Erik
+> Dietrich](/post/consultant-interview-erik-dietrich/)
+
 ## Isn't 99% enough?
 
 No. Do consider the [broken windows theory](https://en.wikipedia.org/wiki/Broken_windows_theory).

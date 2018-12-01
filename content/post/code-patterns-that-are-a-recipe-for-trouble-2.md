@@ -18,6 +18,11 @@ focus on code patterns in testing and also concerning readability and style.
 
 # Testing
 
+> "I can’t recall ever getting a call to help a department or program get its
+> application back on the rails and discovering a nice, healthy unit test
+> suite." - [Interview with Erik
+> Dietrich](/post/consultant-interview-erik-dietrich/)
+
 ## Using sleep in tests
 
 Using `sleep`s in tests is very troublesome. We usually use `sleep` when we
