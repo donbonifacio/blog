@@ -102,7 +102,7 @@ let's not forget that simple change that needs to be accounted for on the
 frontend or by a different team.
 
 Building software is hard. When we realise that the quality of our code is not
-enough, we try to reach the next level: we need to anticipate what's coming.
+enough, we try to reach the [next level](/post/leveling-up-developers/): we need to anticipate what's coming.
 It's not about deep planning. It's about just _knowing_ what's ahead and having a
 clearer picture of the future of what we're building looks like.
 

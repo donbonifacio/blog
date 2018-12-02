@@ -1,6 +1,6 @@
 ---
 title: "Leveling up developers"
-date: 2018-11-24T06:53:16Z
+date: 2019-01-11T12:00:16Z
 draft: false
 categories: ["Line Management", "Mentoring", "Training", "Soft Skills"]
 small_images:
@@ -12,10 +12,12 @@ small_images:
 As a _line manager_ one of my responsibilities is to level up developers. This
 is something very challenging that I started to like a lot. I have a primary
 [goal](/post/importance-of-setting-goals/) on my [1on1s](/post/1on1-framework/):
-how can I level up this person?
+how can I level up this person? How can I follow the work that is being done and give
+good, candid, actionable feedback? How can _we_ know that in fact we're
+improving?
 
 This starts by trying to understand what my mentees value and where do they see
-themselves. One way I try to do that is by asking: 
+themselves. I try to do that is by asking:
 
 > Imagine that you are 10x more _better_. What does that look like?
 
@@ -27,7 +29,7 @@ something that we seem not to think about. We may have plans to get better, but
 having a concrete vision of what that looks like is a different thing. If I ask
 for other developers they look up to I'll have several references. But it seems
 to me that even if we interact with top performers, we may not know what it
-looks like for us to be much better. Our personality, tastes and experiences
+looks like for us to be much better. Our personality, _tastes_ and experiences
 will be different.
 
 The next step will be to ask what makes a top performer more valuable. What
@@ -46,7 +48,7 @@ badly, they see us and note about 100 things to improve. But will say: _Okay,
 you're doing good. Now try to focus on this specific thing_. The next day, we're
 better at that thing and they'll say: _Awesome progress. Now try to focus on
 that other thing_. And step by step we get improvements. We always have a
-positive feedback loop. But sometimes they will also shows the hard reality and
+positive feedback loop. But sometimes they will also show us the hard reality and
 say: _That performance could be much better. We'll need to work on it_.
 
 First we need to understand and _decide_ that we want to be better. Then we need
@@ -54,12 +56,13 @@ to change our day to day processes towards that goal. We are what we repeatedly
 do. But there's sometimes inertia or beliefs that constrain us. I may suggest
 some change and get a _"I don't have time for that"_ excuse. Usually this means:
 
-1. I don't think that the change brings value enough for me to invest time in it
+1. I don't think that the change brings enough value for me to invest time in it
 1. I believe the change is good, but it will compromise my productivity
 
-For 1), it's usually me that didn't provide enough value. Sometimes I may
+Regarding 1), usually I didn't sell my suggestion well. Sometimes I may
 actually be presenting solutions to problems they never had. Or I may even need
-to question my own beliefs and consider if the change is really good.
+to [question my own
+beliefs](/post/how-to-convince-others-that-we-are-right/) and consider if the change is really good.
 
 Option 2) is more common. To _change_ we need to invest. We leave our [comfort
 zone](/post/comfort-zone-index/) when we're
@@ -67,7 +70,7 @@ zone](/post/comfort-zone-index/) when we're
 [productivity](/post/productivity-index/). But that's part of the process. We
 invest time, we _change_, and we get improvements.
 
-This is also an investment on my part. If _commit_ to focus on improving
+This is also an investment on my part. If I _commit_ to focus on improving
 developers, I'll need to invest time in following what they are doing. This is
 not easy and takes time. So I also expect commitment in return. The next section
 will be about all the little things I try to pay attention and will bring to the
@@ -81,8 +84,9 @@ I'm applying the scientific method here. This is my hypothesis, and now I'm
 taking it to be tested with my readers. Then I'll gather that data and use
 it to improve my process.
 
-So I'll ask you to fill out a survey about the next improvement points. Please
-help me get better at growing developers.
+So I'll ask you to share your opinions with me (contacts on the bottom of the
+page). How can I improve my process? What are those things that I value that you
+don't believe are that important? What else am I missing?
 
 # What makes a top performer?
 
@@ -97,8 +101,8 @@ themselves. But it does foster debate and acts as a starting point.
 
 ## Communication and Collaboration
 
-We usually work in teams. Knowing how to communicate, [discuss our
-ideas](/post/how-to-convince-others-that-we-are-right/), and collaborate is very
+We usually work in teams. Knowing how to communicate, discuss our
+ideas, and collaborate is very
 important.
 
 ### Communicate in writing
@@ -112,7 +116,7 @@ pull requests and commits, for example. There's always a set of reasons why we
 need to write something. We should take time in properly explaining those _whys_
 so that other people can understand our reasoning.
 
-> My mantra for remote teams is: "What is not written does not exist"". -
+> My mantra for remote teams is: "What is not written does not exist". -
 > [Interview with João
 > Cavalheiro](/post/manager-interview-joao-cavalheiro/)
 
@@ -125,7 +129,8 @@ with it at all.
 
 Knowing how to receive and give feedback, specially when the feedback is harsh, is hard.
 We'll need to understand the point of view of our colleagues and accept it.
-We'll need to understand that sometimes we're wrong and deal with it.
+We'll need to understand that [sometimes we're wrong and deal with
+it](/post/how-to-convince-others-that-we-are-right/).
 
 This process may be _slower_ and sometimes _frustrating_, but the outcome is
 that our deliverables will be battle tested and overall with better quality.
@@ -158,8 +163,8 @@ may have. But to really potentiate this knowledge we need to be able to share
 what we know and what we're doing with our team and company.
 
 A good way to do this is when reviewing pull requests or RFCs. Trying not only
-to analyse the text, but also trying to find improvement points our colleague may
-have and present them in a healthy way.
+to focus on verifying quality, but also trying to find improvement points
+our colleague may have and present them in a healthy way.
 
 ## Behave like role models
 
@@ -167,35 +172,26 @@ have and present them in a healthy way.
 share best practices and to induce change. If we start changing our behaviours
 to better alternatives other people will follow us.
 
-### Put forth our expectations
-
-We should share with our team and our line manager our expectations. Being clear
-here can take away assumptions that may cause harm in the future. So we should
-be clear in what we like and dislike.
-
-We should also be clear about our strengths and weaknesses. If we're working
-in an environment that fosters trust, this will be very important.
-
 ### Quality mindset
 
 A top performer aims to deliver assets with good quality. This involves all
-steps on delivering code. Trying to _really_ understand what's do be done, how
-to test, and ensure that the deliverables are reliable and with few [bugs](/post/zero-bug-policy/),
+steps on delivering code. Trying to _really_ understand what's to be done, how
+to test, and ensure that the deliverables are reliable and with [few bugs](/post/zero-bug-policy/),
 and focusing on documenting when necessary.
 
 By delivering with quality from the start, we can prevent that ping
 pong that may occurs when we're verifying the deliverables.
 
 
-###  knowledge
+###  Knowledge
 
 We should have the necessary knowledge to perform our tasks. We should know
 about the business domain overall and aim to understand how all parts interact.
 
 In technical terms, we should know the project ecosystem. This means _where_
 things are done, or how to find out where they are done. How to handle
-dependencies and how to troubleshoot them. How to deploy how is the production
-environments (and the others) configured.
+dependencies and how to troubleshoot them. How to deploy and how is the production
+environment (and the others) configured.
 
 It's also helpful to understand a bit about the work of our peers from other
 roles. For example, if we're working on the backend, we should know a bit about
@@ -210,7 +206,7 @@ outside considerations we'll have poorer outcomes. Even if we in fact have the
 best strategy and are more experienced than our teammates, just having the
 process to reason and explain the whys will make our proposition better.
 
-> Just because we're the best in the neighbourhood doesn't mean we're good
+> Just because we're the best in the neighbourhood doesn't mean we're good.
 
 ### Mentoring
 
@@ -228,8 +224,8 @@ We should see ourselves as _mentors_ every time we have a teammate that is less
 experienced or proficient in something that we're comfortable with. Sometimes I
 have something to do and I have a less experienced developer teaming up with
 me. When that happens, I usually ask my teammate to lead. To act as the _tech
-lead_ and _commmand_ me. And naturally I'll be there to help on every step of our
-path.
+lead_ and _commmand_ me. And naturally I'll be there to help on every step of
+the way.
 
 ## Technical proficiency
 
@@ -302,6 +298,11 @@ like end to end testing, contract based testing, [mutation testing](/post/mutati
 We may not have the need for all these, but knowing how they work and how these
 techniques can add value is very important.
 
+> "I can’t recall ever getting a call to help a department or program get its
+> application back on the rails and discovering a nice, healthy unit test
+> suite." - [Interview with Erik
+> Dietrich](/post/consultant-interview-erik-dietrich/)
+
 ### DevOps mindset
 
 We should not focus just on our code and its delivery, but also on how
@@ -315,7 +316,8 @@ when things go wrong, let's not forget a [postmortem](/post/postmortem-culture/)
 
 ### Debug and troubleshooting
 
-Top performers are usually great at troubleshooting. They properly understand
+Top performers are usually great at
+[troubleshooting](/post/bug-that-was-not-our-mistake-except-it-was/). They properly understand
 what they did and how that relates with other moving parts. They can triage and
 go from the overall problem to the specific issue that caused it. This means
 knowledge not only of the code, but also having a tool belt of skills and tools
@@ -336,6 +338,10 @@ Another example is `git`. It's useful knowing not only the basic operations, but
 also how to revert actions, how to rewrite history with interactive rebasing, and
 how to build a good commit _timeline_.
 
+And finally, we have the process to understand how things are done by looking at
+the manual and/or the source code. It's said that we can save _minutes_ of reading
+documentation if we invest _hours_ of trial and error.
+
 ## Vision
 
 A _good_ attitude is the most remarkable trait of a top performer. When I'm
@@ -347,17 +353,118 @@ deliver features, business as usual.
 
 But top performers will have a ton of things to say. They'll want to improve
 this and that, they would refactor a system, they would focus on making tools
-for the team to be better, etc. Note that it's important to _check_ if they
-would commit to doing those things. There's where the value. Having ideas of
+for the team to be better, on changing and improving processes, etc.
+Note that it's important to _check_ if they
+would commit to doing those things. There's where the value is at. Having ideas for
 other people to implement, without experience on that regard, is not what I'm
 looking for.
 
-
 # Success stories
 
-Macos and Fábio's stories and André, cláudia
+I'd like to share some stories of developers that I interacted with that have the
+top performer mindset. What were their attitude and how they grew. Let's call
+them David, Olivia and Thomas.
+
+## David
+
+This is a very _cocky_ guy that worked with me. We booted a project and I
+remember that on our first day he told me that he would be better and more
+productive than me. We had never worked together but we knew each other from the
+office.
+
+Whenever I created a pull request, it was as his life mission was to find
+problems with my code. He'd question everything, and even discuss when something
+was not easy to understand. If he actually agreed with something, we'd play the
+devils advocate. He was on a deep learning quest and wanted to extract the most
+out of me. I do recognize that sometimes this was frustrating. _Always_ being
+questioned is not something easy to handle.
+
+But the truth is that we _both_ grew a lot in the process. We later went
+different ways. He applied to a company that only hires experienced developers
+(10+ years) and he was still _junior_ (3+ years). Not only did he join them, but
+a year later they offered him a role with even more responsibilities.
+
+It was his drive to become better that allowed his career to sky rocket.
+
+## Olivia
+
+Once I was doing recruiting consulting. I would get candidates and would do
+triage and give back a _report_. At this one time I got someone that became
+memorable. She was also _cocky_ and had 3 years of experience doing an
+application single handed. She did backend, frontend, operations, etc. Was very
+versatile and with a get things done attitude. I liked her a lot. I asked her to
+assess the quality level of her code and she said it was great.
+
+Confident, resourceful, and also eager to learn. Time to check her
+personality. I told her: _I'm going to report back that you are a junior
+developer_. She looked puzzled. I noted that she was struggling to choose what to
+say next. After some time she said something amazing: _why do you think that?_.
+She didn't strike back, she didn't try to defend herself. She only wanted to know
+my reasoning.
+
+And I told her that working alone doesn't provide as much skills. She isn't doing
+much testing, she isn't doing code that is easy to change and peer reviewed. She
+lacked experience in pull request etiquette. I also asked her to consider this
+scenario: she would imagine another version of herself, but who had worked 3
+years with 10 other developers, all of them top performers. And she replied back:
+_okay I understand now, I still have a lot to learn_.
+
+This was already amazing. But what happened the next 5 days was even better.
+Every day she would go to the chat and ask me things:
+
+* How did you get to be where you are?
+* What's the most important thing you've learned?
+* What books do you suggest for me to read?
+
+She was trying to learn as much as possible to make herself better.
+
+## Thomas
+
+I had started working on a project that had [many quality
+issues](/post/project-no-one-wants-to-work-at/). There was this guy that worked
+there and followed the stream but was not okay with that. This is very
+interesting. Even if we care about quality, we may relax it if we're in an
+environment that is not quality friendly. Quality is like a muscle, we need to
+train it constantly.
+
+When I stepped in I came with all my ideas and suggestions and little by little
+we started to change the quality of our deliverables. And Thomas would question
+my suggestions and sometimes say they were cumbersome.
+
+This is very typical. I remember when I [started working in
+Java](/post/from-rails-to-clojure-to-java-to-rails/) and I didn't know Java at
+all, that I created a test project and setup a linter/code analyser check on the
+build. And that thing was nagging me _all_ the time. But one month later it
+stopped. I actually assumed that it had stopped working, but when I went to
+_fix_ it, I realised that it was in fact still working, but it was _me_ that had
+changed by code writing practice to accommodate the linter.
+
+In this project we had this experience many times: starting to write good commit
+messages, start to delivering patches with good code coverage, all bug pull
+requests need a test that covers the issue, code should be clean and easy to
+understand and change, we should document the _whys_ when necessary, we should
+have a build system that double checks everything we can, etc, etc.
+
+Thomas adapted and little by little he transformed. His pull requests are now a
+_work of art_. And he grew and he is now pushing me to be better.
+
 
 # Summary
 
-we need to push ourselves and our teammates to be better, that's the only way
-we get better
+You may have noticed that not once I mentioned proficiency. Usually top
+performers are very skillful. But when talking about growing I'm more focused on
+the journey than on the final destination. It's by practicing every day, by
+focusing on having better processes that we evolve into better developers.
+
+This is an ongoing process for me also. Many times I struggle and fail at
+growing developers. So don't forget to give me feedback
+to help me get better.
+
+Another thing to consider: what is the end game? If a developer achieves all
+these processes and even more, is that the end game? No. I'd say that is just
+the beginning. When we reach a higher level of performance the important thing
+is how to scale it. So if someone is a top performer, the next step will be: how
+can I mentor other developers to be _better_ than me?
+
+And when we reach that point? Well, this compounds: how can I train someone that will
+train other people to be even better at growing top developers?

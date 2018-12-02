@@ -20,7 +20,7 @@ can be very hard. So I started to build a framework to help me.
 
 # My one-on-one goals and format
 
-I focus my 1on1s on leveling up my mentees, and also myself in the process. The
+I focus my 1on1s on [leveling up my mentees](/post/leveling-up-developers/), and also myself in the process. The
 goal is to make us better and this will be a joint effort. Usually I don't
 know what to do or how to do it. I'll have a period of discovery where I try
 to get to know and understand each member of my team.
