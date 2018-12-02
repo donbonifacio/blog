@@ -144,7 +144,7 @@ following plan:
 
 Bottom line: we need to know our managees. Know their interests, what makes
 them tick. But also their improvement points and work with them for continuous
-leveling up.
+[leveling up](/post/leveling-up-developers/).
 
 ## If you're managed
 
