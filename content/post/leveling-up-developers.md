@@ -37,9 +37,56 @@ clear definition of a top performer.
 
 And if we don't know our destination, it's harder to get there more efficiently.
 
+# How to grow top performers?
+
+There are _tons_ of improvement points we can spot on a developer, if we take
+the time to pay attention. With so many things to improve, how can we tackle it?
+A good approach I've seen is what _sport coaches_ do. We may doing some movement
+badly, they see us and note about 100 things to improve. But will say: _Okay,
+you're doing good. Now try to focus on this specific thing_. The next day, we're
+better at that thing and they'll say: _Awesome progress. Now try to focus on
+that other thing_. And step by step we get improvements. We always have a
+positive feedback loop. But sometimes they will also shows the hard reality and
+say: _That performance could be much better. We'll need to work on it_.
+
+First we need to understand and _decide_ that we want to be better. Then we need
+to change our day to day processes towards that goal. We are what we repeatedly
+do. But there's sometimes inertia or beliefs that constrain us. I may suggest
+some change and get a _"I don't have time for that"_ excuse. Usually this means:
+
+1. I don't think that the change brings value enough for me to invest time in it
+1. I believe the change is good, but it will compromise my productivity
+
+For 1), it's usually me that didn't provide enough value. Sometimes I may
+actually be presenting solutions to problems they never had. Or I may even need
+to question my own beliefs and consider if the change is really good.
+
+Option 2) is more common. To _change_ we need to invest. We leave our [comfort
+zone](/post/comfort-zone-index/) when we're
+[learning](/post/learning-index/) new things and naturally that will affect our
+[productivity](/post/productivity-index/). But that's part of the process. We
+invest time, we _change_, and we get improvements.
+
+This is also an investment on my part. If _commit_ to focus on improving
+developers, I'll need to invest time in following what they are doing. This is
+not easy and takes time. So I also expect commitment in return. The next section
+will be about all the little things I try to pay attention and will bring to the
+table for discussion.
+
+## Give me your opinion
+
+This post is the result of my observations. Naturally it's biased and based on
+my point of views and the experiences I've had. In my own quest for improvement,
+I'm applying the scientific method here. This is my hypothesis, and now I'm
+taking it to be tested with my readers. Then I'll gather that data and use
+it to improve my process.
+
+So I'll ask you to fill out a survey about the next improvement points. Please
+help me get better at growing developers.
+
 # What makes a top performer?
 
-From _my_ observations and experiences I started to register what _I_ consider to
+From _my_ experiences I started to register what _I_ consider to
 be a list of skills and practices that top performers share. I try to have a
 long term practical [training plan](/post/quarterly-training-plan/) to suggest.
 But I also focus on day to day common tasks and how to improve them.
@@ -252,34 +299,59 @@ like end to end testing, contract based testing, [mutation testing](/post/mutati
 > Mutation testing is the process of heuristically determining semantics of your
 > program that are not covered by tests. - [Interview with Markus Schirp](/post/consultant-interview-markus-schirp/)
 
-We may not have the need for all this, but knowing how they work and how these
+We may not have the need for all these, but knowing how they work and how these
 techniques can add value is very important.
 
+### DevOps mindset
 
-## Non direct responsibilities
-Interested Have know how of DevOps/operations/deploys/CI
-Debug and troubleshooting
-- Knows their tooling
-- View readme/docs/source code
-- Knows about version control, how to rebase interactive, how to build a story
-Have a vision
+We should not focus just on our code and its delivery, but also on how
+that's going to be used, how it's going to be supported and how it connects with
+the current infrastructure. We may do something that causes problems elsewhere:
+on the build pipelines, on other services, performance issues and even putting
+production _down_.
 
-# How to grow top performers?
+Monitoring and the ability to inspect what we're doing is very important. And
+when things go wrong, let's not forget a [postmortem](/post/postmortem-culture/).
 
-This is a lot. So how do we train people on this? Step by step
-- metaphor of the fitness coach that trains little by little
+### Debug and troubleshooting
 
-Points not about skillset, but about day to day practice
-You are what you repeatedly do. Use this to your advantage by doing the things you want to become.
-When I suggest a change I may have the I don't have time excuse. That can mean:
+Top performers are usually great at troubleshooting. They properly understand
+what they did and how that relates with other moving parts. They can triage and
+go from the overall problem to the specific issue that caused it. This means
+knowledge not only of the code, but also having a tool belt of skills and tools
+for when problems occur. This is specially useful when we're dealing with code
+and infrastructure that _we don't own_.
 
-* I don't think that the change brings value enough for me to invest time in it
-* I believe the change is good, but it will compromise my productivity
+One way to improve this skill is to have a [production incident training program](/post/production-incident-training-program/).
 
-# Give me your opinion
+### Tooling
 
-Scientific method: these are my hypothesis, you are my peers
-Survey for feedback
+We use several tools every day. From our code editor to bash commands. We should
+take time to understand and customize those tools. For example, I'm a `vim`
+user. I don't get in _editor wars_, but I do try to optimize it to my needs.
+I've seen developers with several types of editors that are able to take the
+most out of them. Know and customize your editor.
+
+Another example is `git`. It's useful knowing not only the basic operations, but
+also how to revert actions, how to rewrite history with interactive rebasing, and
+how to build a good commit _timeline_.
+
+## Vision
+
+A _good_ attitude is the most remarkable trait of a top performer. When I'm
+doing interviews I like to ask: _"Imagine that you are now the boss of your
+project, that you have the power to do anything, what would you do?"_.
+
+Typically I get some standard responses: following the roadmap, continue to
+deliver features, business as usual.
+
+But top performers will have a ton of things to say. They'll want to improve
+this and that, they would refactor a system, they would focus on making tools
+for the team to be better, etc. Note that it's important to _check_ if they
+would commit to doing those things. There's where the value. Having ideas of
+other people to implement, without experience on that regard, is not what I'm
+looking for.
+
 
 # Success stories
 
