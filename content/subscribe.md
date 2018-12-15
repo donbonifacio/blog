@@ -4,8 +4,11 @@ date: 2018-01-05T22:22:10Z
 draft: false
 ---
 
+# Subscribe
+
 Subscribe the mailing list if you want to receive a monthly digest of my articles
-about **engineering management**.
+on **engineering management**. I also add interesting links to articles and
+threads.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -17,7 +20,7 @@ about **engineering management**.
 <div id="mc_embed_signup">
 <form action="https://space.us17.list-manage.com/subscribe/post?u=6f6f1f461f0a05f9424bf29a3&amp;id=2d731c59e0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
-<h2>Subscribe to our mailing list</h2>
+<h2>Subscribe to the mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
