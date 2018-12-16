@@ -38,16 +38,17 @@ are less demanding. This compounds and in some time starts to look like
 there just isn't any other way. _"We always did things that way"_. Here are
 some examples:
 
-* We have a slow test suite. If we get a flaky test failing, we just re-run
+* We have a slow test suite. If we get a [flaky test failing](/post/code-patterns-that-are-a-recipe-for-trouble-2/#using-sleep-in-tests), we just re-run
   the suite instead of trying to understand the problem and fix it.
 * There is a support ticket with corrupted data on the database. We just change
-  the data instead of fixing the root cause that led to that problem.
+  the data instead of [fixing the root
+  cause](/post/zero-bug-policy/#1-always-address-the-root-cause) that led to that problem.
 * We have a feature to implement. We start coding right away instead of doing
-  some planing.
+  [some planing](/post/rfc-driven-development/).
 * We made some changes and some unit tests are failing and we don't understand
   why. We just comment them out.
 * We have a production bug and we quickly create that one-liner pull request
-  that fixes it. But we don't replicate the issue with a unit test.
+  that fixes it. But we don't [replicate the issue with a unit test](/post/zero-bug-policy/#3-really-fix-the-bug).
 * When production is down we fix it and don't take the time to create an
   incident report and share what happened. We don't track the number of
   outages we had.

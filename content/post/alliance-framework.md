@@ -2,7 +2,7 @@
 title: "Alliance framework"
 date: 2018-12-12T09:54:32Z
 draft: false
-categories: [Technical Leadership", "Line Management", "Books"]
+categories: ["Technical Leadership", "Line Management", "Books"]
 small_images:
 - "/img/values-and-habits.png"
 ---
