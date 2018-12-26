@@ -69,7 +69,8 @@ making the shift is much harder. For example:
 # We need to be aligned on values
 
 When we have a company or a team with a clear set of values we have a boost
-in productivity. Because the values help us on making decisions faster. If
+in productivity. Because the values help us on [making decisions
+faster](/post/decision-logs/). If
 we have people with clashing values we'll always have never ending discussions.
 
 On the other end, if we know that our coworkers share our values, our habits,

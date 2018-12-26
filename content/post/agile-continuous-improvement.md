@@ -120,7 +120,8 @@ clients. We can pick some of them and work directly with them, but there's
 always the danger of building tailor made software for a subset of our
 clients.
 
-So we need to adapt. We need to have a way of making informed decisions. We
+So we need to adapt. We need to have a way of [making informed
+decisions](/post/decision-logs/). We
 start to gather data and try to get value from it. We need to understand what
 our customers value and work as a team to deliver value. But we also need to
 know the direction our company is heading to.
