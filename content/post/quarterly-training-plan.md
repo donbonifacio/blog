@@ -35,7 +35,7 @@ Read more about [the importance of setting goals](/post/importance-of-setting-go
 
 When we start in a new company or project we may be learning a lot. We may be
 learning new technologies but we'll surely be learning the project business
-rules, the current structure, the decisions taken, etc. But this learning will be decreasing over time.
+rules, the current structure, the [decisions taken](/post/decision-logs/), etc. But this learning will be decreasing over time.
 So, in 6 months we may not be learning that much, and instead we'll be at
 a peack of [performance and productivity](/post/productivity-index/).
 

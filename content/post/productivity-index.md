@@ -51,7 +51,8 @@ things that aren't directly related with with what we need to deliver.
   a feature, but also documentation, upgrade guides and assets to other teams.
   We need to gather all this to have a clear picture of what is the end game.
 * **Unrelated meetings**: we may have meetings that are not related with what
-  we need to deliver. Could be status of other features, decisions to make,
+  we need to deliver. Could be status of other features, [decisions to
+  make](/post/decision-logs/),
   even all hands meetings. All these impact the time we have to work and we
   should account for them.
 * **Recruitment**: we may also have recruitment responsibilities, and need to

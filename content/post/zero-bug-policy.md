@@ -303,4 +303,4 @@ better](/post/work-smart-vs-work-hard/) and that
 we will in fact experience less bugs. And that will give us time to build new
 things and to make improvements to our code base.
 
-It's a roller coaster of good practices that starts with a simple decision.
+It's a roller coaster of good practices that starts with a [simple decision](/post/decision-logs/).

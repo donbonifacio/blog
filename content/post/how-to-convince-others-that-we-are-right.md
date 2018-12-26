@@ -40,7 +40,8 @@ see ourselves in charge of _selling_ our ideas with a _win-win_ mindset, then
 all the typical sales best practices can be useful.
 
 Our etiquette is also very important. We may communicate our ideas via a
-decree, disregarding other opinions. But if we want to achieve a joint decision
+decree, disregarding other opinions. But if we want to achieve a [joint
+decision](/post/decision-logs/)
 we'll need to also listen and understand the opinion of other people, and aim to
 reach a middle ground that is acceptable by everyone.
 
