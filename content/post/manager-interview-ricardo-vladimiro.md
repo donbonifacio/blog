@@ -20,6 +20,10 @@ At some point I went back to the web applications world and he started his journ
 at [Miniclip](https://www.miniclip.com/games/en/) where he turned to data science and grew as a manager. He is
 a good friend and a good mentor.
 
+He also contributed to the blog with a guest post:
+
+* [If you love them, let them go!](/post/if-you-love-them-let-them-go/)
+
 <div style='clear:both'></div>
 
 <!--more-->
