@@ -2,7 +2,7 @@
 title: "If you love them, let them go!"
 date: 2019-01-08T19:00:39Z
 draft: false
-categories: ["Ramblings", "Gest Posts", "Line Management"]
+categories: ["Ramblings", "Guest Posts", "Line Management"]
 author: "Ricardo Vladimiro"
 ---
 
