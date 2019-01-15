@@ -1,5 +1,5 @@
 ---
-title: "Rock Start interview: Ricardo Fiel - Microsoft"
+title: "Rock Star interview: Ricardo Fiel - Microsoft"
 date: 2018-07-22T8:55:19+01:00
 draft: false
 categories: ["Interviews", "Manager Interviews", "Mentoring", "Leadership"]
