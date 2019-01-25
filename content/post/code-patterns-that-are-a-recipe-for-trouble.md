@@ -2,7 +2,7 @@
 title: "Code patterns that are a recipe for trouble (part 1)"
 date: 2018-05-08T08:35:56+01:00
 draft: false
-categories: ["Testing", "Code Quality", "Code Reviews"]
+categories: ["Testing", "Code Quality", "Code Reviews", "Programming"]
 tags: ["Java", "Javascript", "Ruby", "Clojure"]
 images:
   - "/img/bad-code-patterns.png"

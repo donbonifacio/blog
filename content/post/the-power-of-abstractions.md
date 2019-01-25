@@ -2,7 +2,8 @@
 title: "The power of abstractions"
 date: 2018-10-16T18:02:43+01:00
 draft: false
-categories: ["Code Quality", "Code Reviews", "War Stories", "Code Stories"]
+categories: ["Code Quality", "Code Reviews", "War Stories", "Code Stories",
+"Programming"]
 small_images:
 - "/img/development.png"
 ---
