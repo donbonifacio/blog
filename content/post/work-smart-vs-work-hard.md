@@ -21,7 +21,9 @@ mind to be able to achieve it. When we talk about _working hard_ we talk more
 about quantity than quality. We're more focused on short term output. But
 continuously having more work than we can handle makes us more tired and therefore
 less prone to do creative work. We start leaning for regular work all the time.
-We may accomplish some milestones but we may endanger future work and [productivity](/post/productivity-index/).
+We may accomplish some milestones but we may endanger future work and
+[productivity](/post/productivity-index/) (see [developer speed versus team
+speed](/post/developer-speed-versus-team-speed/)).
 
 This may happen when we have though sequence of [deadlines](/post/dealing-with-deadlines/).
 If we're pushing release after release it's hard to take some time to improve

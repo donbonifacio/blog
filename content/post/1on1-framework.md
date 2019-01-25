@@ -178,7 +178,7 @@ Someone might have a goal of learning Japanese. That's very vague, so I'll ask
 if they can set a time limit (for example one year) and what they expect to achieve
 on that time frame (having basic fluency). With this in mind it's easier to
 understand what they'll need to _invest_ to get there. They can access if if
-makes sense and if it is achieavle.
+makes sense and if it is achievable.
 
 Another example is _delivering features_. I'll push for _delivering features
 with quality_. So we need to define what's quality. How can we measure that?
