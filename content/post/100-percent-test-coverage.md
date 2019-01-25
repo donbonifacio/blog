@@ -2,7 +2,7 @@
 title: "Why should we aim for 100% code coverage?"
 date: 2018-02-03T17:36:55Z
 draft: false
-categories: ["Testing", "Code Quality", "Code Reviews"]
+categories: ["Testing", "Code Quality", "Code Reviews", "Programming"]
 tags: ["Java", "Javascript", "Ruby"]
 images:
   - "/img/onboarding-template.png"

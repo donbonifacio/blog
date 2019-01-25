@@ -2,7 +2,7 @@
 title: "We should track our decisions in a decision log"
 date: 2019-01-16T09:20:37Z
 draft: false
-categories: ["Planning", "Executing", "Technical Leadership", "Decision Log"]
+categories: ["Planning", "Executing", "Technical Leadership", "Decision Logs"]
 small_images:
 - "/img/debates.png"
 ---
@@ -105,7 +105,7 @@ created and also the results over time. Topics like:
 * Having a formal QA process without manual tests
 * Enforcing 100% code coverage on some projects
 * Enforcing strict linting rules on the build pipelines
-* Using result based APIs
+* [Using result based APIs](/post/result-based-apis/)
 * Following a zero bug policy
 
 I'll write _why_ I believe some action is important, the pros and cons, and

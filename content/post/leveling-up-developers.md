@@ -74,7 +74,7 @@ This is also an investment on my part. If I _commit_ to focus on improving
 developers, I'll need to invest time in following what they are doing. This is
 not easy and takes time. So I also expect commitment in return. The next section
 will be about all the little things I try to pay attention and will bring to the
-table for discussion.
+table for [discussion](/post/decision-logs/).
 
 ## Give me your opinion
 
