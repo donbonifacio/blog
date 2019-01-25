@@ -7,8 +7,7 @@ images:
   - "/img/project-no-one-wants.png"
 ---
 
-![The project no one wants](/img/project-no-one-wants.png)
-
+<img src='/img/project-no-one-wants.png' style='float:right; width:200px;margin-left:15px'/>
 
 There are projects that one one wants to work at. There could be many reasons
 for that and I list here some that I've seen. Being aware of these problems
@@ -16,6 +15,7 @@ is the first step to start fixing them. And most importantly, by being aware
 of these problems we can start from day one implementing processes that prevent
 these kind of things from happening.
 
+<div style='clear:both'></div>
 <!--more-->
 
 ## How is that project defined
@@ -64,6 +64,8 @@ understand what's happening. This brings risk and slows down development.
 We may only get this in parts of the project, like that payment processment
 module that no one understands, and no one knows how it works and the developer
 that implemented it left the company 2 years ago.
+
+See [developer speed versus team speed](/post/developer-speed-versus-team-speed/).
 
 ### Very bad reputation
 

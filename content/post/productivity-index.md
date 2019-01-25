@@ -29,7 +29,9 @@ be required for you to deliver in 8 days.
 
 How would this be possible? My goal here is simple: usually our productivity
 is not that related with _how much work we can do on a given day_, but with
-several other practices and responsibilities that we have.
+several other practices and responsibilities that we have (see [developer speed
+versus team
+speed](/post/developer-speed-versus-team-speed/)).
 
 # What impacts our productivity?
 
