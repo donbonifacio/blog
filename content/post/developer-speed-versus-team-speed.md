@@ -5,6 +5,8 @@ draft: false
 categories: ["Ramblings", "Code Reviews", "Executing", "Culture"]
 small_images:
 - "/img/values-and-habits.png"
+discuss:
+  - ["Reddit", "https://www.reddit.com/r/programming/comments/alcjif/developer_speed_versus_team_speed/"]
 ---
 
 <img src='/img/values-and-habits.png' style='float:right; width:200px;margin-left:15px'/>
