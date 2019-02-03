@@ -102,6 +102,7 @@ this on the decision logs will help on understanding the different use cases.
 I'm going to start registering on the blog several decision logs that I've
 created and also the results over time. Topics like:
 
+* [What sofware engineering KPIs to track](/post/software-engineering-kpis/)
 * Having a formal QA process without manual tests
 * Enforcing 100% code coverage on some projects
 * Enforcing strict linting rules on the build pipelines
