@@ -2,7 +2,7 @@
 title: "First impressions: mutation testing"
 date: 2018-10-31T08:02:20+01:00
 draft: false
-categories: ["Code Quality", "Testing"]
+categories: ["Code Quality", "Testing", "Programming"]
 small_images:
 - "/img/debates.png"
 discuss:
@@ -80,7 +80,7 @@ I can put all the changes I made on two bags: assumptions and fragile code.
 
 I feel that almost all issues found were related with assumptions not being
 covered on tests. For example, imagine that we have a function that returns a
-result object, with some value and a success flag:
+[result object](/post/result-based-apis/), with some value and a success flag:
 
 ```ruby
 def failure(value = {})
@@ -174,7 +174,7 @@ This made me realize that mutant testing can indeed help us produce better code.
 ## Summary
 
 I created the pull request with this patch as a [RFC](http://localhost:1313/post/rfc-driven-development/)
-and brought the discussion to the team. It's true that this brought value, but
+and brought the [discussion](/post/decision-logs/) to the team. It's true that this brought value, but
 we also need to understand the cost: in a very small project it takes a lot of
 time to verify it. And this project doesn't have databases or complex logic.
 

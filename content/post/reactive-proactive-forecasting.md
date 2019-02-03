@@ -64,6 +64,8 @@ forecast what we're going to look like in 6 to 12 months for example. If
 proactive tasks are about having a vision and start working towards it, forecast
 is to pinpoint the future and figure out where we're going to be at.
 
+(See [software engineering KPIs](/post/software-engineering-kpis/).)
+
 What kind of features are we going to have? What kind of performance
 requirements will need to be addressed? How many clients are we expecting? What
 teams will we have? How will we structure our teams? How many developers are we
