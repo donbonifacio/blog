@@ -9,6 +9,7 @@ small_images:
 discuss:
   - ["Result Objects - Errors Without Exceptions", "https://www.rubypigeon.com/posts/result-objects-errors-without-exceptions/"]
   - ["Problem Details for HTTP APIs", "https://tools.ietf.org/html/rfc7807"]
+  - ["Category Theory and algebraic abstractions", "https://funcool.github.io/cats/latest/"]
 ---
 
 <img src='/img/debates.png' style='float:right; width:200px;margin-left:15px'/>
@@ -55,7 +56,7 @@ else
 end
 ```
 
-By using results we can express both the success as the failure using the same
+By using results we can express both the success and the failure using the same
 object. But how is this different from using exceptions? By using this process,
 exceptions become really _exceptional_ events. Everything that we properly handle
 and the bad things we detect, we return as error results. I believe this makes the code
