@@ -10,6 +10,7 @@ discuss:
   - ["How To Prepare For A One-on-One Meeting As a Manager", "https://knowyourcompany.com/learn/guides/8-how-to-have-effective-one-on-one-meetings/4-how-to-prepare-for-a-one-on-one-meeting-as-a-manager/"]
   - ["The Importance of One-on-Ones", "https://css-tricks.com/the-importance-of-one-on-ones/"]
   - ["A Brief Guide to Better 1:1’s—For Makers and Managers Alike", "https://www.helpscout.com/blog/one-on-ones/"]
+  - ["Ultimate List of 1:1 Questions for Managers", "https://www.notion.so/Ultimate-List-of-1-1-Questions-for-Managers-4e15f89bfabb41398c32a40e8b77673a"]
 ---
 
 ![1on1 framework](/img/1on1-framework.png)

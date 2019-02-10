@@ -447,7 +447,7 @@ We don't know. We'd have to go to that method and associated template and see
 if somehow we also need to send information that we're not expecting.
 
 This is a simple scenario where coupling doesn't seem that problematic. But
-from experience, but be very troublesome to refactor.
+from experience, can be very troublesome to refactor.
 
 ##  Several conditions or loops that mutate variables
 
