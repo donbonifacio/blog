@@ -30,7 +30,7 @@ be great explaining the low level detail of an algorithm in a commit message, bu
 struggle to present the its benefits in an upper management meeting.
 
 So even if we have good content on our minds, we still need to properly
-translate them to words. I've found that training in public speaking is actually
+translate it to words. I've found that training in public speaking is actually
 very useful. We may be talking to an audience, or in a meeting with a
 couple of peers. But in both scenarios we need to convey a message. Our posture
 and our body language are very important.
