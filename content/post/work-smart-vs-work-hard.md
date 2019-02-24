@@ -25,7 +25,7 @@ We may accomplish some milestones but we may endanger future work and
 [productivity](/post/productivity-index/) (see [developer speed versus team
 speed](/post/developer-speed-versus-team-speed/)).
 
-This may happen when we have though sequence of [deadlines](/post/dealing-with-deadlines/).
+This may happen when we have demanding sequence of [deadlines](/post/dealing-with-deadlines/).
 If we're pushing release after release it's hard to take some time to improve
 things, take care of technical debt and attend to bugs and improvements. We
 always have the pressure to deliver more. This can lead to physical and
@@ -107,7 +107,7 @@ need to have a higher threshold for the quality we want to deliver.
 # Working hard is good too...
 
 I do believe that bursts of hard work are very important. They force us to leave
-our [comfort zone](/post/comfort-zone-index/). The put to the test our practices
+our [comfort zone](/post/comfort-zone-index/). They put to the test our practices
 and productivity. They make us realise what are our improvement points. All
 of this will make us grow.
 
