@@ -19,6 +19,9 @@ With time I've came up with my own set of questions. I have a different _style_.
 I favour open questions that let the candidates talk freely about their past
 experiences.
 
+_(You may also be interested in the [questions I like to ask
+interviewers](/post/unique-interview-questions-to-ask-interviewers/).)_
+
 <div style='clear:both'></div>
 <!--more-->
 
