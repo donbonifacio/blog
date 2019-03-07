@@ -41,7 +41,7 @@ about the company. Usually people look far away and try to articulate what are
 the _cons_ of working there. This will be a personal answer and we can tell a
 lot by how it's delivered. Does the interviewer show honesty and easiness to talk
 about improvement points? Even with problems being stated, do I feel
-that the company provides a save environment?
+that the company provides a safe environment?
 
 Sometimes interviewers look down. Or they may say that this is the best company
 and that there aren't any improvement points. These are red flags for me. I
@@ -138,7 +138,7 @@ in a different direction?
 This is more of a typical pitfall I usually see. There are some tasks that
 companies need to take care of that may not be challenging on the long run. For
 example, people that do support, or that are in a "feature factory". Doing this
-for years may take the edge of us. Or maybe not, it may actually depend on how
+for years may take the edge out of us. Or maybe not, it may actually depend on how
 much we like to innovate and leave our [comfort
 zone](/post/comfort-zone-index/).
 
