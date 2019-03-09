@@ -26,6 +26,10 @@ to attend to.
 In this interview I try to get some insights on how Nuno works and some best
 practices on leading teams.
 
+He also contributed to the blog with a guest post:
+
+* [Scaling engineering teams](/post/scale-engineering-teams/)
+
 
 <div style='clear:both'></div>
 

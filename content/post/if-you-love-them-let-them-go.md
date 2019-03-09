@@ -4,6 +4,7 @@ date: 2019-01-08T19:00:39Z
 draft: false
 categories: ["Ramblings", "Guest Posts", "Line Management"]
 author: "Ricardo Vladimiro"
+author_url: "https://www.linkedin.com/in/ricardovladimiro/"
 ---
 
 <img src='/img/ricardo-vladimiro.jpeg' style='float:right; width:200px;margin-left:15px'/>
