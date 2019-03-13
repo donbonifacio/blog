@@ -27,7 +27,7 @@ came out a framework that reimagines the way we produce software development.
 <!--more-->
 
 In Pipedrive we are organized within Tribes. Tribes are formed by a maximum of
-20 engineers leaded by an Engineering Manager, maximum of 4 Product Managers
+20 engineers lead by an Engineering Manager, maximum of 4 Product Managers
 leaded by a Product Manager Lead and a Maximum of 4 Product Designers leaded by
 a Product Design Lead. It can also have researchers and data analysts
 dependending of the necessities of the Product. This structure is responsible by
@@ -37,9 +37,9 @@ improvement and support.
 Within the Tribe, we have 2 types of places a tribe member can be: in the
 Launchpad or in a Mission.
 
-The Launchpad is the physical place were all the Engineers, Project Managers,
+The Launchpad is the physical place were all the Engineers, Product Managers,
 Product Designers, Researchers and Data Analysts that are not on mission are. In
-the Launchpad, Project Managers, Product Designers, Researchers and Data
+the Launchpad, Product Managers, Product Designers, Researchers and Data
 Analysts prepare the next missions, investigating and preparing what, on product
 terms, makes sense to tackle next. This, of course, is aligned with the global
 product strategy and company objectives for that year. Engineers, while in the
@@ -83,8 +83,7 @@ takes between 1 month to 3 months
 * **Engineering Mission**: Is a mission that has
 no dependency of the product team and its main objective is to improve or
 refactor a big part of a feature (e.g. improve the scalability of a certain
-component). Usually takes between 1 month to 3 months.  Every mission is time
-boxed to 3 months.
+component). Usually takes between 1 month to 3 months. 
 
 With this model, we hope to have motivated motivate by always being experiencing
 new challenges, have focus on the value we deliver to our clients (move fast,
