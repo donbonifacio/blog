@@ -6,6 +6,8 @@ author_url: "https://www.linkedin.com/in/nunos/"
 categories: ["Scaling Teams", "Leadership", "Guest Posts"]
 small_images:
 - "/img/nuno-silva.jpeg"
+discuss:
+  - ["Scaling Pipedrive Engineering — From Teams to Tribes", "https://medium.com/pipedrive-developers/scaling-pipedrive-engineering-from-teams-to-tribes-8f14fd92df8c"]
 ---
 
 <img src='/img/nuno-silva.jpeg' style='float:right; width:200px;margin-left:15px'/>
