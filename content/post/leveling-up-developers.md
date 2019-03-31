@@ -162,7 +162,8 @@ Learning, feedback handling, being pragmatic, etc, are all useful tools a develo
 may have. But to really potentiate this knowledge we need to be able to share
 what we know and what we're doing with our team and company.
 
-A good way to do this is when reviewing pull requests or RFCs. Trying not only
+A good way to do this is when [reviewing pull
+requests](/post/high-throughput-pull-request-reviews/) or RFCs. Trying not only
 to focus on verifying quality, but also trying to find improvement points
 our colleague may have and present them in a healthy way.
 

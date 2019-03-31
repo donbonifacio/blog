@@ -88,8 +88,8 @@ Twitter, from developers that I respect a lot, that state that we should not
 have pull requests. That it's more important to put things in `master` and that
 we can later fix things if necessary. And sometimes, I actually do that. I may
 be in a _hurry_, so I create a pull request, the build passes, and I merge it
-leaving a note saying that I will update things later if anything comes up on a
-review.
+leaving a note saying that I will update things later if anything comes up [on a
+review](/post/high-throughput-pull-request-reviews/).
 
 But then we have the problem of context. And that other problem of the quality
 of our deliverables. One thing that makes software development slower is trying

@@ -24,7 +24,8 @@ and reach an outcome.
 
 Should we use some new technology? VueJS or ReactJS? Should we use a specific
 language for that specific service? Should we enforce all pull requests to run
-a build pipeline? How many people should review pull requests? Could we change
+a build pipeline? How many people should [review pull
+requests](/post/high-throughput-pull-request-reviews/)? Could we change
 the sprint duration?
 
 There are always lots of questions and decisions like these. A good way to handle
