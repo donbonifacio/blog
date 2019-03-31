@@ -96,7 +96,7 @@ But it's our choice to:
 * When we have a bug: understand the root cause, replicate the issue with a
   test and create a patch.
 * Before starting a new task, we take some time to understand what we're going
-  to do and ask for some reviews.
+  to do and ask for [some reviews](/post/high-throughput-pull-request-reviews/).
 * Etc...
 
 This can be hard to bootstrap. But all this investment will pay off. We just

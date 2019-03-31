@@ -131,8 +131,8 @@ and try to take the most out of it.
 
 Having worked on several ecosystems really opened my eyes and made me consider
 several ways of doing things. It's all about the trade-offs, and as an
-Engineering Manager I have to gain from being able to review code from an arbitrary
-stack. I may not be the best low level reviewer but from what I learned I
+Engineering Manager I have to gain from being able to [review code from an arbitrary
+stack](/post/high-throughput-pull-request-reviews/). I may not be the best low level reviewer but from what I learned I
 do have lots of inputs to provide.
 
 * **From Ruby:** Huge focus on easy to change software, go for small functions

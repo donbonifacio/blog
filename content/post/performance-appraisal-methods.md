@@ -142,7 +142,7 @@ For example:
 * Be a good teammate
 * We expect that some side tasks are also done and that they won't impact the
   main deliverables
-  * Reviewing pull requests
+  * [Reviewing pull requests](/post/high-throughput-pull-request-reviews/)
   * Write [RFCs](/post/rfc-driven-development/) before starting tasks
   * Present process [improvement suggestions](/post/decision-logs/) from time to time
   * Attend priority bugs that may come up

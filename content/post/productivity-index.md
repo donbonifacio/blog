@@ -62,7 +62,7 @@ things that aren't directly related with with what we need to deliver.
 * **Support**: we may be responsible for being on call or solve urgent support
   tickets that may arrive.
 * **Waiting for pull request reviews**: depending on the team, we may have a lot
-  of pull requests to attend to. If the pull requests are complex we may need
+  of [pull requests to attend to](/post/high-throughput-pull-request-reviews/). If the pull requests are complex we may need
   to wait and iterate on them.
 
 As we can see there's a lot going on. We'll need to be very organised to make

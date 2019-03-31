@@ -9,7 +9,8 @@ small_images:
 ---
 <img src='/img/development.png' style='float:right; width:200px;margin-left:15px'/>
 
-The other day I was doing a code review and noticed that a mechanism for _i18n_
+The other day I was doing a [code
+review](/post/high-throughput-pull-request-reviews/) and noticed that a mechanism for _i18n_
 was added to a new project we're working on. There was a line like this:
 
 ```js
