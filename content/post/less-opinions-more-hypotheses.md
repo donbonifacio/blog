@@ -103,7 +103,7 @@ experimentation. I've seen this several times when the development team isn't
 able to keep up with the backlog, and so all work has a smaller scope. We're
 always doing a bare minimal. Could be for experiments or because the business
 demands it. Either way we may be going towards an end product that starts to
-feel half baked.
+feel half-baked.
 
 Developers may start to [lose satisfaction](/post/satisfaction-index/) because
 they may feel that they aren't delivering polished work or because they don't
