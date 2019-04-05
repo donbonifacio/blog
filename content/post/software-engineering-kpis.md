@@ -5,6 +5,8 @@ draft: false
 categories: ["Planning", "Executing", "Decision Logs"]
 images:
   - "/img/NumberOfReleases.png"
+discuss:
+  - ["Measuring Developer Productivity", "https://hackernoon.com/measure-a-developers-impact-e2e18593ac79"]
 ---
 
 <img src='/img/training-plan.png' style='float:right; width:200px;margin-left:15px'/>
