@@ -12,7 +12,7 @@ discuss:
 ![Learning index](/img/learning-index.png)
 
 How can we know if we're learning enough? Or if we're learning the right
-things? How can we get some help and find mentors?
+things? How can we get some help and [find mentors](/post/find-a-mentor/)?
 
 <!--more-->
 
