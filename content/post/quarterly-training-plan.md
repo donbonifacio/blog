@@ -118,7 +118,7 @@ by suggesting doing blog posts or even talks.
 But all this is hard. It's hard to come up with a plan, and it's hard to actually
 implement it. For example, I'm very good at motivating people to learn new things
 and follow the training plan. But I actually lack a training plan of my own. In
-this situation having a good mentor and peers may help a lot.
+this situation having a [good mentor](/post/find-a-mentor/) and peers may help a lot.
 
 I do believe that the main point of having a training plan is to foster good
 learning habits. And I do have some that I value: I read a book every month. I

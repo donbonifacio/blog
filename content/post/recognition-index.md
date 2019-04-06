@@ -107,7 +107,7 @@ But if we need to ask... that's already a smell.
 
 ## Invest on good mentors
 
-Working with good mentors will be great for an employee to feel recognised.
+Working with [good mentors](/post/find-a-mentor/) will be great for an employee to feel recognised.
 It shows that the company believes the employee to be an asset to work with
 the mentor, and will allow the employee to grow.
 

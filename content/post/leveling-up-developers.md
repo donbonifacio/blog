@@ -221,7 +221,7 @@ we're working with top performers.
 > (...) - [Interview with Monika
 > Wojtasinska-Felicio](/post/coach-interview-monika-wojtasinska-felicio/)
 
-We should see ourselves as _mentors_ every time we have a teammate that is less
+We should see ourselves as [mentors](/post/find-a-mentor/) every time we have a teammate that is less
 experienced or proficient in something that we're comfortable with. Sometimes I
 have something to do and I have a less experienced developer teaming up with
 me. When that happens, I usually ask my teammate to lead. To act as the _tech

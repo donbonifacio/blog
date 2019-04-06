@@ -61,7 +61,8 @@ it's only preparation to be better in the long term.
 
 It's important to realize that we shouldn't be accountable for doing things
 we know nothing about. If we're going to do something very different that we've
-never done before, then we should have proper mentoring and training. If we
+never done before, then we should have proper
+[mentoring](/post/find-a-mentor/) and training. If we
 don't, we'll need more time to learn and adapt and we should accept that.
 
 # Productivity versus comfort zone
