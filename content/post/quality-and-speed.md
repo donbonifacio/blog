@@ -34,12 +34,12 @@ Let me post here something that was made for my youngest daughter's birthday.
 
 One was [done by my
 sister](https://www.instagram.com/p/CEfSjD_jkFS/?utm_source=ig_web_copy_link)
-and the other by my niece. It's easy to see that we have a piece of work that is much more
+and the other by my niece. It's easy to see that we have a piece of work that is more
 polished than the other one. The structure is similar but there are several
 quality differences that are easy to spot.
 
-Now, my sister did the best version of Snow White _much more faster_ than my niece.
-We can argue that the comparison is not fair, after all my sister has _much more
+Now, my sister did the best version of Snow White _much faster_ than my niece.
+We can argue that the comparison is not fair, after all my sister has _more
 experience and skills_ than my niece.
 
 But I can also argue that _time_ is not the main requirement for quality. I
