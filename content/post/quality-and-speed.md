@@ -66,6 +66,36 @@ And lets not forget change requests. We can all relate with building a snow
 white's face that is top notch and then the customer asks for Little Red Hidding
 Hood.
 
+## Where's the silver bullet?
+
+Time does impact quality. If we gave a deadline of 2 minutes, maybe both my
+sister and my niece would present us with the same output. On the other hand I
+can also find examples of more skillful engineers taking longer on certain
+tasks.
+
+For example, lets consider a task to deploy a small script that does something
+simple. Engineer A could do:
+
+* Build a script
+* Put it live
+
+While Engineer B would do:
+
+* Create a
+  [RFC](https://engineering-management.space/post/rfc-driven-development/) with
+  the plan and get it peer reviewed
+* Come up with an incremental plan to release the task, bit by bit
+* Create a proper CI environment and builds the project for every pull request
+* Implement the feature with proper tests
+* Get it peer reviewed
+* Write some documentation
+* Write a
+  [postmortem](https://engineering-management.space/post/postmortem-culture/) if anything went wrong
+
+Maybe I'm exaggerating, but you get the picture. There are many things we can do
+to have more quality. The best 10x developer in the world would take more time
+to deliver. Naturally the project would be much better to maintain long term.
+
 ## What's the sweet spot then?
 
 Several of the challenges I mentioned are addressed by [agile
@@ -88,6 +118,9 @@ time". This is something common that I faced many times before. But _now_, I
 can't even code without using tests at the same time, and I find that I'm much
 more efficient with a test to guide me than without one. But this _skill_ took
 time to develop.
+
+And this all depends on the culture of our team. Are we [working hard or working
+smart](https://engineering-management.space/post/work-smart-vs-work-hard/)?
 
 # Summary
 
