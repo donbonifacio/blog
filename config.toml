@@ -12,6 +12,9 @@ disqusShortname = ""      # disqus_shortname
 googleAnalytics = "UA-112804048-1"
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [author]
   name = "Pedro Pereira Santos"
 

@@ -12,7 +12,7 @@ Currently the blog runs against hugo `0.32.2`. That is defined at `netlify.toml`
 Pages are on the `content/` directory. The top menu that references pages is
 defined at `config.toml`.
 
-Posts can be created with: `hugo new posts/post-name.md`.
+Posts can be created with: `hugo new post/post-name.md`.
 
 The local server can be started with `hugo server -D`. The `-D` option is to
 also include posts tagged as draft.
