@@ -31,7 +31,7 @@ things, take care of technical debt and attend to bugs and improvements. We
 always have the pressure to deliver more. This can lead to physical and
 psychological burnout.
 
-{{< tweet 994997571679608832 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When we feel stress our bodies release cortisol. Cortisol impairs  rational thinking &amp; decision making. In a toxic culture we are biologically more likely to make a bad decision or do something that is  ethically questionable. Healthy corporate cultures matter  <a href="https://twitter.com/hashtag/goodleadership?src=hash&amp;ref_src=twsrc%5Etfw">#goodleadership</a></p>&mdash; Simon Sinek (@simonsinek) <a href="https://twitter.com/simonsinek/status/994997571679608832?ref_src=twsrc%5Etfw">May 11, 2018</a></blockquote>
 
 # Typical examples of working hard and not smart
 
@@ -67,7 +67,8 @@ Sometimes we have tasks that take our time and they feel like work, but
 it's not really _productive work_. We are working but are we providing the
 best value we can?
 
-{{< tweet 995068743540707329 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Interviewer: Tell me about your qualifications. <br><br>Candidate: I&#39;m very quick at math. <br><br>Interviewer: What&#39;s the square root of 700?<br><br>Candidate: 4. <br><br>Interviewer: That&#39;s not even close. <br><br>Candidate: Yeah, but it was quick.</p>&mdash; Jeremiah Lowin (@jlowin) <a href="https://twitter.com/jlowin/status/995068743540707329?ref_src=twsrc%5Etfw">May 11, 2018</a></blockquote>
+
 
 Working smarter is taking the time to fix root causes, to constantly iterate
 in making our processes better and more productive. But we need time and
@@ -82,7 +83,8 @@ be slow, so we don't bother adding more slow tests to it. Having years of
 development with this mindset is very hard to counteract. We may lead ourselves
 to a [project no one wants to work at](/post/project-no-one-wants-to-work-at/).
 
-{{< tweet 1004282178333634560 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;re an engineering manager, the quickest way to say &quot;fuck you&quot; to your reports is to prove that you _just_ care about getting the work, no matter how shitty, done, but are not at all invested in their technical growth or career long term.</p>&mdash; ✨Shubheksha✨ (@ScribblingOn) <a href="https://twitter.com/ScribblingOn/status/1004282178333634560?ref_src=twsrc%5Etfw">June 6, 2018</a></blockquote>
+
 
 # Turning around
 
@@ -102,7 +104,9 @@ But it's our choice to:
 This can be hard to bootstrap. But all this investment will pay off. We just
 need to have a higher threshold for the quality we want to deliver.
 
-{{< tweet 989857605123223552 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Typical software company: 1. Backlog of stuff somebody decided the team should do -&gt; 2. “Product” role who really is just a project manager -&gt; 3. Designers and programmers overloaded with ill-defined work being asked to work faster and faster instead of smarter.</p>&mdash; Ryan Singer (@rjs) <a href="https://twitter.com/rjs/status/989857605123223552?ref_src=twsrc%5Etfw">April 27, 2018</a></blockquote>
+
+
 
 # Working hard is good too...
 
@@ -131,7 +135,8 @@ I can work concentrated on the mornings. I may turn off other kinds of input
 Sometimes we do need to have a few people that are interruptible, if that
 makes the rest of the team able to concentrate on doing work.
 
-{{< tweet 995155886724218880 >}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think 80% of companies who say they need to hire more engineers actually don’t.<br><br>They need to<br>- motivate better<br>- communicate better<br>- plan better<br>- retain better<br>- train better<br><br>Hiring more can often be throwing money to cover up deeper managerial/product issues at the company</p>&mdash; shawn swyx wang 🌟 (@swyx) <a href="https://twitter.com/swyx/status/995155886724218880?ref_src=twsrc%5Etfw">May 12, 2018</a></blockquote>
+
 
 # Summary
 
